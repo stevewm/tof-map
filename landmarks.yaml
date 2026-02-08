@@ -156,6 +156,12 @@
     y: 110
     z: 15786
 
+- name: Crow's Nest
+  location:
+    x: -3992
+    y: 117
+    z: -1713
+
 - name: Scholar's Wake
   location:
     x: 10780
