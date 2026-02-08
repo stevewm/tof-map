@@ -1,0 +1,955 @@
+- name: Bear Island Tower
+  desc: Located in the wooden watchtower
+  origin: 
+    x: -3132
+    y: 140
+    z: 4405
+  destination:
+    x: -2542
+    y: 126
+    z: 5320
+  color: blue
+
+- name: Bear Island Tower 2
+  desc: Linked to the Bear Island Tower translocator via a tunnel
+  origin:
+    x: -2454
+    y: 33
+    z: 5317
+  destination:
+    x: 1413
+    y: 72
+    z: 10238
+  color: blue
+
+- name: Bear Island Cave
+  desc: ""
+  origin:
+    x: -3224
+    y: 114
+    z: 4283
+  destination:
+    x: -6173
+    y: 90
+    z: -2477
+  color: orange
+
+- name: Bear Island Cave 2
+  desc: Destination is under the ocean
+  origin:
+    x: -6119
+    y: 81
+    z: -2500
+  destination:
+    x: -12737
+    y: 51
+    z: 2079
+  color: orange
+
+- name: Plymouth TL 1
+  desc:
+  origin:
+    x: 33
+    y: 114
+    z: 1221
+  destination:
+    x: 7050
+    y: 17
+    z: -6740
+  color: red
+
+- name: Plymouth TL 2
+  desc:
+  origin:
+    x: 15
+    y: 64
+    z: 1193
+  destination:
+    x: -3179
+    y: 47
+    z: 5490
+  color: red
+
+- name: Plymouth TL 3
+  desc:
+  origin:
+    x: -126
+    y: 102
+    z: 1238
+  destination:
+    x: -4556
+    y: 52
+    z: 3863
+  color: ""
+
+- name: Plymouth TL 6
+  desc:
+  origin:
+    x: 41
+    y: 95
+    z: 1547
+  destination:
+    x: 5666
+    y: 33
+    z: 11
+  color: ""
+
+- name: Choopsie TL 1
+  desc:
+  origin:
+    x: 182
+    y: 1
+    z: 2813
+  destination:
+    x: 10673
+    y: 1
+    z: 14661
+  color: ""
+
+- name: Cap TL 1
+  desc:
+  origin:
+    x: -997
+    y: 129
+    z: 2420
+  destination:
+    x: -5237
+    y: 29
+    z: -314
+  color: purple
+
+- name: Cap TL 2
+  desc:
+  origin:
+    x: -5241
+    y: 99
+    z: -186
+  destination:
+    x: -10814
+    y: 40
+    z: 1692
+  color: purple
+
+- name: Aldermere TL 1
+  desc:
+  origin:
+    x: -1457
+    y: 114
+    z: -1137
+  destination:
+    x: -6966
+    y: 1
+    z: 1862
+  color: ""
+
+- name: Aldermere NE
+  desc: ""
+  origin:
+    x: -1295
+    y: 87
+    z: -962
+  destination:
+    x: 2602
+    y: 66
+    z: -752
+  color: ""
+
+- name: Aldermere SW
+  desc: ""
+  origin:
+    x: -1460
+    y: 102
+    z: -733
+  destination:
+    x: -191
+    y: 34
+    z: 573
+  color: ""
+
+- name: Aldermere SW 2
+  desc: ""
+  origin:
+    x: -1462
+    y: 71
+    z: -749
+  destination:
+    x: -6971
+    y: 12
+    z: 2068
+  color: ""
+
+- name: Me-mow TL 1
+  desc:
+  origin:
+    x: -263
+    y: 1
+    z: 2290
+  destination:
+    x: 1116
+    y: 1
+    z: 7522
+  color: ""
+
+- name: Me-mow TL 2
+  desc:
+  origin:
+    x: -3216
+    y: 1
+    z: 3098
+  destination:
+    x: 1127
+    y: 183
+    z: 7098
+  color: teal
+
+- name: Me-mow TL 3
+  desc:
+  origin:
+    x: 1166
+    y: 189
+    z: 7096
+  destination:
+    x: 5404
+    y: 1
+    z: 14725
+  color: teal
+
+- name: Ergiler TL 1
+  desc:
+  origin:
+    x: -1780
+    y: 1
+    z: 28730
+  destination:
+    x: -7078
+    y: 1
+    z: 33681
+  color: ""
+
+- name: Carthasis TL 1
+  desc:
+  origin:
+    x: -1543
+    y: 1
+    z: -2361
+  destination:
+    x: -86
+    y: 1
+    z: 3619
+  color: ""
+
+- name: bmc TL 1
+  desc: ""
+  origin:
+    x: 2958
+    y: 100
+    z: -1064
+  destination:
+    x: -1322
+    y: 100
+    z: 4449
+  color: green
+
+- name: bmc TL 2
+  desc: ""
+  origin:
+    x: -1314
+    y: 100
+    z: 4473
+  destination:
+    x: 3125
+    y: 100
+    z: 10256
+  color: green
+
+- name: bmc TL 3
+  desc: ""
+  origin:
+    x: 3101
+    y: 100
+    z: 10236
+  destination:
+    x: 388
+    y: 100
+    z: 13246
+  color: green
+
+- name: bmc TL 4
+  desc: ""
+  origin:
+    x: 3096
+    y: 100
+    z: 10224
+  destination:
+    x: -2135
+    y: 100
+    z: 11970
+  color: green
+
+- name: bmc TL 5
+  desc: ""
+  origin:
+    x: 392
+    y: 100
+    z: 13185
+  destination:
+    x: -2629
+    y: 100
+    z: 16834
+  color: green
+
+- name: bmc TL 6
+  desc: ""
+  origin:
+    x: 395
+    y: 100
+    z: 13179
+  destination:
+    x: -6652
+    y: 100
+    z: 17690
+  color: green
+
+- name: bmc TL 7
+  desc: ""
+  origin:
+    x: -2305
+    y: 100
+    z: 18037
+  destination:
+    x: 3788
+    y: 100
+    z: 16673
+  color: pink
+
+- name: bmc TL 8
+  desc: ""
+  origin:
+    x: 3725
+    y: 100
+    z: 16220
+  destination:
+    x: 4508
+    y: 100
+    z: 13496
+  color: pink
+
+- name: bmc TL 9
+  desc: ""
+  origin:
+    x: 3490
+    y: 100
+    z: 16234
+  destination:
+    x: 7447
+    y: 100
+    z: 9822
+  color: pink
+
+- name: bmc TL 10
+  desc: ""
+  origin:
+    x: 2905
+    y: 100
+    z: -1028
+  destination:
+    x: 10641
+    y: 100
+    z: -6543
+  color: green
+
+- name: bmc TL 11
+  desc: ""
+  origin:
+    x: 10620
+    y: 100
+    z: -6527
+  destination:
+    x: 15624
+    y: 100
+    z: -10575
+  color: green
+
+- name: bmc TL 12
+  desc: ""
+  origin:
+    x: 15632
+    y: 100
+    z: -10543
+  destination:
+    x: 19579
+    y: 100
+    z: -3098
+  color: green
+
+- name: bmc TL 13
+  desc: ""
+  origin:
+    x: 19587
+    y: 100
+    z: -3111
+  destination:
+    x: 20948
+    y: 100
+    z: -3773
+  color: green
+
+- name: bmc TL 14
+  desc: ""
+  origin:
+    x: 21009
+    y: 100
+    z: -3768
+  destination:
+    x: 26602
+    y: 100
+    z: -9977
+  color: green
+
+- name: bmc TL 15
+  desc: ""
+  origin:
+    x: 26603
+    y: 100
+    z: -9966
+  destination:
+    x: 22906
+    y: 100
+    z: -6810
+  color: green
+
+- name: bmc TL 16
+  desc: ""
+  origin:
+    x: 22913
+    y: 100
+    z: -6829
+  destination:
+    x: 22498
+    y: 100
+    z: -1835
+  color: green
+
+- name: bmc TL 17
+  desc: ""
+  origin:
+    x: 22880
+    y: 100
+    z: -6851
+  destination:
+    x: 24184
+    y: 100
+    z: -5610
+  color: green
+
+- name: bmc TL 18
+  desc: ""
+  origin:
+    x: 2988
+    y: 100
+    z: -1080
+  destination:
+    x: 6597
+    y: 100
+    z: 884
+  color: green
+
+- name: bmc TL 19
+  desc: ""
+  origin:
+    x: 2981
+    y: 100
+    z: -1096
+  destination:
+    x: 9255
+    y: 100
+    z: 2482
+  color: green
+
+- name: bmc TL 20
+  desc: ""
+  origin:
+    x: 7068
+    y: 100
+    z: -6753
+  destination:
+    x: 11071
+    y: 100
+    z: -3638
+  color: red
+
+- name: bmc TL 21
+  desc: ""
+  origin:
+    x: 4610
+    y: 30
+    z: 167
+  destination:
+    x: 3142
+    y: 22
+    z: -7187
+  color: "#0000B4"
+
+- name: bmc TL 22
+  desc: ""
+  origin:
+    x: 9460
+    y: 70
+    z: 2404
+  destination:
+    x: 4600
+    y: 24
+    z: 192
+  color: "#0000B4"
+
+- name: bmc TL 23
+  desc: ""
+  origin:
+    x: 4575
+    y: 40
+    z: 191
+  destination:
+    x: 7637
+    y: 24
+    z: -5176
+  color: "#0000B4"
+
+- name: bmc TL 24
+  desc: ""
+  origin:
+    x: 4603
+    y: 30
+    z: 163
+  destination:
+    x: 5182
+    y: 79
+    z: -3519
+  color: "#0000B4"
+
+- name: bmc TL 25
+  desc: ""
+  origin:
+    x: 9515
+    y: 12
+    z: 2390
+  destination:
+    x: 15603
+    y: 19
+    z: -4619
+  color: "#0000B4"
+
+- name: bmc TL 26
+  desc: ""
+  origin:
+    x: 9434
+    y: 65
+    z: 2304
+  destination:
+    x: 15447
+    y: 12
+    z: 5939
+  color: "#0000B4"
+
+- name: bmc TL 27
+  desc: ""
+  origin:
+    x: 2481
+    y: 56
+    z: -733
+  destination:
+    x: 1695
+    y: 16
+    z: 6023
+  color: "#0000B4"
+
+- name: bmc TL 28
+  desc: ""
+  origin:
+    x: 2556
+    y: 76
+    z: -792
+  destination:
+    x: 5134
+    y: 94
+    z: 1266
+  color: "#0000B4"
+
+- name: bmc TL 29
+  desc: ""
+  origin:
+    x: -7792
+    y: 76
+    z: 15290
+  destination:
+    x: -8592
+    y: 122
+    z: 22611
+  color: "0,0,180"
+
+- name: bmc TL 30
+  desc: ""
+  origin:
+    x: -7478
+    y: 115
+    z: 17039
+  destination:
+    x: -3812
+    y: 44
+    z: 21755
+  color: "#0000B4"
+
+- name: bmc TL 31
+  desc: ""
+  origin:
+    x: 109
+    y: 90
+    z: 14961
+  destination:
+    x: 3268
+    y: 14
+    z: 10659
+  color: "#0000B4"
+
+- name: bmc TL 33
+  desc: ""
+  origin:
+    x: 2075
+    y: 63
+    z: -1486
+  destination:
+    x: 3748
+    y: 123
+    z: -3583
+  color: "#0000B4"
+
+- name: Akyrus TL 1
+  desc: ""
+  origin:
+    x: -787
+    y: 100 # Not provided
+    z: 1350
+  destination:
+    x: 1462
+    y: 100 # not provided
+    z: -3862
+
+- name: Akyrus TL 2
+  desc: ""
+  origin:
+    x: -967
+    y: 100 # not provided
+    z: 1356
+  destination:
+    x: 1648
+    y: 100 # not provided
+    z: 7029
+
+- name: Akyrus TL 3
+  desc: ""
+  origin:
+    x: 1467
+    y: 100 # not provided
+    z: -3835
+  destination:
+    x: 2247
+    y: 100 # not provided
+    z: -3402
+
+- name: Tournesol TL 1
+  desc:
+  origin:
+    x: 3561
+    y: 35
+    z: 16491
+  destination:
+    x: 5187
+    y: 92
+    z: 23384
+  color: ""
+
+- name: LR Southern
+  desc: ""
+  origin:
+    x: 5148
+    y: 100
+    z: 23594
+  destination:
+    x: 8507
+    y: 100
+    z: 30692
+  color: pink
+
+- name: LR Northern (Tournesol)
+  desc: ""
+  origin:
+    x: 5186
+    y: 100
+    z: 23384
+  destination:
+    x: 3562
+    y: 100
+    z: 16492
+  color: pink
+
+- name: Moon 7C-D
+  desc: "D, near Pyrite Town, underwater, ladder down. C links to 7B."
+  origin:
+    x: 4608
+    y: 22
+    z: 1598
+  destination:
+    x: -2411
+    y: 30
+    z: 3306
+  color: ""
+  
+- name: Moon 7A-B
+  desc: "A, easy access from Plymouth, ladder down."
+  origin:
+    x: 7
+    y: 81
+    z: 1557
+  destination:
+    x: -4622
+    y: 21
+    z: 1580
+  color: ""
+  
+- name: Moon 5A-B
+  desc: "A, easy access from Plymouth, ladder down."
+  origin:
+    x: 25
+    y: 74
+    z: 1518
+  destination:
+    x: -3296
+    y: 68
+    z: 7142
+  color: ""
+  
+- name: Moon 4A-B
+  desc: "A, easy access from Plymouth, ladder down."
+  origin:
+    x: 11
+    y: 47
+    z: 1487
+  destination:
+    x: -4923
+    y: 23
+    z: 4098
+  color: ""
+  
+- name: Moon 3C-D
+  desc: "Ladder on both sides"
+  origin:
+    x: -4567
+    y: 65
+    z: 3834
+  destination:
+    x: -10783
+    y: 26
+    z: 1496
+  color: ""
+
+- name: Moon SE Plymouth
+  desc: "Ladder on both sides"
+  origin:
+    x: 728
+    y: 113
+    z: 1540
+  destination:
+    x: 306
+    y: 44
+    z: -4408
+  color: ""
+
+- name: Coven TL 1
+  desc: ""
+  origin:
+    x: 100
+    y: 111
+    z: 4122
+  destination:
+    x: -4605
+    y: 92
+    z: 11144
+  color: ""
+
+- name: Coven TL 2
+  desc: ""
+  origin:
+    x: 214
+    y: 94
+    z: 4604
+  destination:
+    x: -5821
+    y: 13
+    z: 8166
+  color: ""
+
+- name: Coven TL 2a
+  desc: ""
+  origin:
+    x: -5875
+    y: 14
+    z: 8224
+  destination:
+    x: -2245
+    y: 16
+    z: 799
+  color: ""
+
+- name: Coven TL 2b
+  desc: ""
+  origin:
+    x: -2351
+    y: 25
+    z: 810
+  destination:
+    x: -8475
+    y: 83
+    z: -3766
+  color: ""
+
+- name: Argilita NE 1
+  desc: ""
+  origin:
+    x: -787
+    y: 127
+    z: 1350
+  destination:
+    x: -1651
+    y: 22
+    z: 7027
+  color: "#FF7F00"
+
+- name: Argilita NE 1-1
+  desc: ""
+  origin:
+    x: -2220
+    y: 122
+    z: 7807
+  destination:
+    x: -4281
+    y: 84
+    z: 14854
+  color: "#FF7F00"
+
+- name: Argilita NE 1-2
+  desc: ""
+  origin:
+    x: -2982
+    y: 54
+    z: 7195
+  destination:
+    x: -9745
+    y: 34
+    z: 13218
+  color: "#FF7F00"
+
+- name: Argilita NW 1
+  desc: ""
+  origin:
+    x: -967
+    y: 123
+    z: 1356
+  destination:
+    x: 1460
+    y: 12
+    z: -3865
+  color: "#FF7F00"
+
+- name: Argilita NW 1-1
+  desc: ""
+  origin:
+    x: 667
+    y: 69
+    z: -4542
+  destination:
+    x: -2003
+    y: 66
+    z: -3960
+  color: "#FF7F00"
+
+- name: EaterofTitan 1
+  desc: ""
+  origin:
+    x: 18979
+    y: 108
+    z: 14586
+  destination:
+    x: 16647
+    y: 32
+    z: 21134
+  color: ""
+
+- name: EaterofTitan 2
+  desc: ""
+  origin:
+    x: 18367
+    y: 89
+    z: 18532
+  destination:
+    x: 15978
+    y: 38
+    z: 19660
+  color: ""
+
+- name: EaterofTitan 3
+  desc: ""
+  origin:
+    x: 18519
+    y: 92
+    z: 18596
+  destination:
+    x: 25096
+    y: 12
+    z: 25972
+  color: ""
+
+- name: EaterofTitan 4
+  desc: ""
+  origin:
+    x: 19796
+    y: 241
+    z: 16826
+  destination:
+    x: 23151
+    y: 65
+    z: 11841
+  color: ""
+
+- name: EaterofTitan 5
+  desc: ""
+  origin:
+    x: 20550
+    y: 112
+    z: 14948
+  destination:
+    x: 22726
+    y: 46
+    z: 10684
+  color: ""
+
+- name: EaterofTitan 6
+  desc: ""
+  origin:
+    x: 19343
+    y: 103
+    z: 6794
+  destination:
+    x: 23048
+    y: 80
+    z: 11835
+  color: ""
+
+- name: tootallferne 1
+  desc: ""
+  origin:
+    x: -509
+    y: 133
+    z: 2391
+  destination:
+    x: 7380
+    y: 110
+    z: -2327
