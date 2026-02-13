@@ -185,3 +185,9 @@
     x: 0
     y: 100
     z: 15000
+
+- name: Fruit Tower
+  location:
+    x: -587
+    y: 118
+    z: 3287

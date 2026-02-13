@@ -6,7 +6,8 @@ import { POI } from "@/types/poi"
 export interface GraphNode {
     id: string
     location: POI
-    type: 'landmark' | 'translocator' | 'temporary'
+    type: 'landmark' | 'translocator'
+    description?: string
     /** For translocators: the ID of the linked translocator */
     linkedTranslocatorId?: string
     /** Custom color for the node */
@@ -73,11 +74,12 @@ export class POIGraph {
     /**
      * Adds a node to the graph
      */
-    addNode(id: string, location: POI, type: GraphNode['type'], color?: string): void {
+    addNode(id: string, location: POI, type: GraphNode['type'], description?: string, color?: string): void {
         this.nodes.set(id, {
             id,
             location,
             type,
+            description: description || '',
             color: color
         })
     }

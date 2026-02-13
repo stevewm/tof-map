@@ -18,11 +18,11 @@ export default async function HomePage() {
   // TODO: move this somewhere more suitable
   const graph = new POIGraph()
   for (const landmark of landmarksData) {
-    graph.addNode(landmark.name, landmark.location, 'landmark')
+    graph.addNode(landmark.name, landmark.location, 'landmark', landmark.desc)
   }
   for (const translocator of translocatorsData) {
-    graph.addNode(translocator.name + " Origin", translocator.origin, 'translocator', translocator.color)
-    graph.addNode(translocator.name + " Destination", translocator.destination, 'translocator', translocator.color)
+    graph.addNode(translocator.name + " Origin", translocator.origin, 'translocator', translocator.desc, translocator.color)
+    graph.addNode(translocator.name + " Destination", translocator.destination, 'translocator', translocator.desc, translocator.color)
     graph.linkTranslocators(translocator.name + " Origin", translocator.name + " Destination")
   }
 

@@ -66,6 +66,13 @@ export default function InfoPanel({ node, onClose, onLinkedToClick, onNavigate }
           </div>
         </div>
 
+        {/* Description */}
+        {node.description && (
+          <div className="text-sm text-foreground whitespace-pre-line leading-relaxed">
+            {node.description}
+          </div>
+        )}
+
         {/* Action Buttons */}
         <ButtonGroup>
           <Button 
