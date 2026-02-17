@@ -1121,3 +1121,169 @@
     y: 32
     z: 5891
   color: ""
+
+- name: Atla TL 1A
+  desc: ""
+  origin:
+    x: -3669
+    y: 44
+    z: 15483
+  destination:
+    x: 1038
+    y: 47
+    z: 18457
+  color: green
+- name: Atla TL 2A
+  desc: ""
+  origin:
+    x: -3863
+    y: 59
+    z: 15222
+  destination:
+    x: 1242
+    y: 15
+    z: 18803
+  color: green
+- name: Atla TL 3A
+  desc: ""
+  origin:
+    x: -3852
+    y: 95
+    z: 15275
+  destination:
+    x: -8530
+    y: 27
+    z: 20026
+  color: green
+- name: Atla TL 4A
+  desc: ""
+  origin:
+    x: -3862
+    y: 97
+    z: 15299
+  destination:
+    x: -1284
+    y: 107
+    z: 8744
+  color: green
+- name: Atla TL 5A
+  desc: ""
+  origin:
+    x: -3847
+    y: 106
+    z: 14801
+  destination:
+    x: 3451
+    y: 70
+    z: 13893
+  color: green
+- name: Atla TL 6A
+  desc: ""
+  origin:
+    x: -4123
+    y: 96
+    z: 15305
+  destination:
+    x: -8233
+    y: 85
+    z: 20676
+  color: green
+- name: Atla TL 7A
+  desc: ""
+  origin:
+    x: -3906
+    y: 106
+    z: 15857
+  destination:
+    x: -11401
+    y: 85
+    z: 23000
+  color: green
+- name: Beangard Southroad TL1
+  desc: "Ladder from surface to TL"
+  origin:
+    x: -2833
+    y: 59
+    z: 15496
+  destination:
+    x: -3406
+    y: 85
+    z: 20296
+  color: green
+- name: Beangard Southroad TL2
+  desc: "TL around the corner and down a bit"
+  origin:
+    x: -3400
+    y: 78
+    z: 20304
+  destination:
+    x: -10080
+    y: 26
+    z: 27792
+  color: green
+- name: New Beangard to Lantern Reef TL
+  desc: ""
+  origin:
+    x: -2841
+    y: 58
+    z: 15504
+  destination:
+    x: 4083
+    y: 26
+    z: 20643
+  color: green
+- name: Atla TL 10A
+  desc: ""
+  origin:
+    x: -2391
+    y: 41
+    z: 15483
+  destination:
+    x: -4069
+    y: 11
+    z: 16379
+  color: green
+- name: Atla TL 11A
+  desc: ""
+  origin:
+    x: -2289
+    y: 96
+    z: 15318
+  destination:
+    x: -4377
+    y: 15
+    z: 20573
+  color: green
+- name: Beangard Southroad TL3
+  desc: "Ladder from surface to TL"
+  origin:
+    x: -10085
+    y: 84
+    z: 27789
+  destination:
+    x: -12294
+    y: 81
+    z: 34666
+  color: green
+- name: Atla TL 13A
+  desc: ""
+  origin:
+    x: -12124
+    y: 46
+    z: 34589
+  destination:
+    x: -20124
+    y: 22
+    z: 28720
+  color: green
+- name: Atla TL 14A
+  desc: ""
+  origin:
+    x: -12219
+    y: 58
+    z: 34548
+  destination:
+    x: -11688
+    y: 63
+    z: 30595
+  color: green
