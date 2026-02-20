@@ -1,4 +1,4 @@
 [tools]
 node = "24.12.0"
 npm = "11.7.0"
-"npm:eslint" = "9.39.2"
+"npm:eslint" = "9.39.3"
