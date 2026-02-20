@@ -191,3 +191,9 @@
     x: -587
     y: 118
     z: 3287
+
+- name: Cragholm
+  location:
+    x: 9573
+    y: 122
+    z: 30899

@@ -1287,3 +1287,26 @@
     y: 63
     z: 30595
   color: green
+
+- name: Cragholm TL 1
+  desc: ""
+  origin:
+    x: 9693
+    y: 122
+    z: 30868
+  destination:
+    x: 7706
+    y: 124
+    z: 34410
+  color: green
+- name: Cragholm TL 2
+  desc: ""
+  origin:
+    x: 9762
+    y: 135
+    z: 30850
+  destination:
+    x: 12584
+    y: 101
+    z: 36194
+  color: green
