@@ -95,6 +95,10 @@
     z: 24862
 
 - name: The Ark
+  description: |
+    The Ark has every animal you can find in the world.
+    Contact in-game Koenders if you need a specific animal.
+  special: true
   location:
     x: 4942
     y: 110
@@ -202,3 +206,21 @@
     x: 9573
     y: 122
     z: 30899
+
+- name: Port Arthur
+  location:
+    x: -653
+    y: 110
+    z: 2066
+
+- name: RedRaven Keep
+  location:
+    x: 5436
+    y: 116
+    z: 6666 # number of the beast(ish)
+
+- name: Haven's Rest
+  location:
+    x: 2200
+    y: 100 # not provided, assumed sea level
+    z: 11000

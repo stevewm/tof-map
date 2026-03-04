@@ -1311,4 +1311,38 @@
     z: 36194
   color: green
 
-  
+- name: Scholar's Wake Southeast
+  desc: ""
+  origin:
+    x: 11595
+    y: 82
+    z: 11235
+  destination:
+    x: 13206
+    y: 44
+    z: 16416
+  color: cyan
+
+- name: Scholar's Wake Northeast
+  desc: ""
+  origin:
+    x: 11722
+    y: 66
+    z: 11370
+  destination:
+    x: 15007
+    y: 12
+    z: 5003
+  color: cyan
+
+- name: Scholar's Wake East
+  desc: ""
+  origin:
+    x: 11732
+    y: 40
+    z: 11354
+  destination:
+    x: 18128
+    y: 71
+    z: 10805
+  color: cyan
