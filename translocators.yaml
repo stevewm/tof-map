@@ -1346,3 +1346,92 @@
     y: 71
     z: 10805
   color: cyan
+
+- name: Cragholm TL 3
+  desc: ""
+  origin:
+    x: 9837
+    y: 77
+    z: 31037
+  destination:
+    x: 16469
+    y: 12
+    z: 34493
+  color: green
+- name: "Cragholm TL 3-1"
+  desc: ""
+  origin:
+    x: 16485
+    y: 12
+    z: 34482
+  destination:
+    x: 13040
+    y: 14
+    z: 30525
+  color: green
+- name: "Cragholm TL 3-1-1"
+  desc: ""
+  origin:
+    x: 13036
+    y: 13
+    z: 30517
+  destination:
+    x: 14714
+    y: 12
+    z: 33660
+  color: green
+- name: "Cragholm TL 3-1-2"
+  desc: ""
+  origin:
+    x: 13028
+    y: 12
+    z: 30525
+  destination:
+    x: 10871
+    y: 58
+    z: 36939
+  color: green
+- name: Port Venture TL2
+  desc: "Under Tavern"
+  origin:
+    x: -20
+    y: 61
+    z: 14944
+  destination:
+    x: -2933
+    y: 74
+    z: 12012
+  color: blue
+- name: Port Venture TL3
+  desc: ""
+  origin:
+    x: 285
+    y: 102
+    z: 14858
+  destination:
+    x: 4820
+    y: 12
+    z: 9973
+  color: blue
+- name: "Tournesol TL 5"
+  desc: ""
+  origin:
+    x: 3345
+    y: 90
+    z: 16544
+  destination:
+    x: -1564
+    y: 40
+    z: 22879
+  color: yellow
+- name: "Tournesol TL 5-1"
+  desc: ""
+  origin:
+    x: -1543
+    y: 38
+    z: 22865
+  destination:
+    x: -8190
+    y: 14
+    z: 27457
+  color: yellow
