@@ -224,3 +224,9 @@
     x: 2200
     y: 100 # not provided, assumed sea level
     z: 11000
+
+- name: Maplewolf Winery & Tavern
+  location:
+    x: 450
+    y: 100 # not provided, assumed sea level
+    z: 9566
