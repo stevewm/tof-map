@@ -627,24 +627,24 @@
   desc: "Best stop for Cragholm"
   origin:
     x: 5148
-    y: 100
+    y: 95
     z: 23594
   destination:
     x: 8507
-    y: 100
+    y: 55
     z: 30692
-  color: pink
+  color: yellow
 - name: Lantern Reef North
   desc: "Best stop for Tournesol"
   origin:
     x: 5186
-    y: 100
+    y: 92
     z: 23384
   destination:
     x: 3562
-    y: 100
+    y: 35
     z: 16492
-  color: pink
+  color: yellow
 - name: Lantern Reef West
   desc: ""
   origin:
