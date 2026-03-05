@@ -1,6 +1,7 @@
+---
 - name: Bear Island Tower
   desc: Located in the wooden watchtower
-  origin: 
+  origin:
     x: -3132
     y: 140
     z: 4405
@@ -9,7 +10,6 @@
     y: 126
     z: 5320
   color: blue
-
 - name: Bear Island Tower 2
   desc: Linked to the Bear Island Tower translocator via a tunnel
   origin:
@@ -21,7 +21,6 @@
     y: 72
     z: 10238
   color: blue
-
 - name: Bear Island Cave
   desc: ""
   origin:
@@ -33,7 +32,6 @@
     y: 90
     z: -2477
   color: orange
-
 - name: Bear Island Cave 2
   desc: Destination is under the ocean
   origin:
@@ -45,7 +43,6 @@
     y: 51
     z: 2079
   color: orange
-
 - name: Plymouth TL 1
   desc:
   origin:
@@ -57,7 +54,6 @@
     y: 17
     z: -6740
   color: red
-
 - name: Plymouth TL 2
   desc:
   origin:
@@ -69,7 +65,6 @@
     y: 47
     z: 5490
   color: red
-
 - name: Plymouth TL 3
   desc:
   origin:
@@ -81,7 +76,6 @@
     y: 52
     z: 3863
   color: ""
-
 - name: Plymouth TL 6
   desc:
   origin:
@@ -93,7 +87,6 @@
     y: 33
     z: 11
   color: ""
-
 - name: Choopsie TL 1
   desc:
   origin:
@@ -105,7 +98,6 @@
     y: 1
     z: 14661
   color: ""
-
 - name: Cap TL 1
   desc:
   origin:
@@ -117,7 +109,6 @@
     y: 29
     z: -314
   color: purple
-
 - name: Cap TL 2
   desc:
   origin:
@@ -129,7 +120,6 @@
     y: 40
     z: 1692
   color: purple
-
 - name: Aldermere TL 1
   desc:
   origin:
@@ -141,7 +131,6 @@
     y: 1
     z: 1862
   color: ""
-
 - name: Aldermere NE
   desc: ""
   origin:
@@ -153,7 +142,6 @@
     y: 66
     z: -752
   color: ""
-
 - name: Aldermere SW
   desc: ""
   origin:
@@ -165,7 +153,6 @@
     y: 34
     z: 573
   color: ""
-
 - name: Aldermere SW 2
   desc: ""
   origin:
@@ -177,7 +164,6 @@
     y: 12
     z: 2068
   color: ""
-
 - name: Me-mow TL 1
   desc:
   origin:
@@ -189,7 +175,6 @@
     y: 1
     z: 7522
   color: ""
-
 - name: Me-mow TL 2
   desc:
   origin:
@@ -201,7 +186,6 @@
     y: 183
     z: 7098
   color: teal
-
 - name: Me-mow TL 3
   desc:
   origin:
@@ -213,7 +197,6 @@
     y: 1
     z: 14725
   color: teal
-
 - name: Ergiler TL 1
   desc:
   origin:
@@ -225,7 +208,6 @@
     y: 1
     z: 33681
   color: ""
-
 - name: Carthasis TL 1
   desc:
   origin:
@@ -237,7 +219,6 @@
     y: 1
     z: 3619
   color: ""
-
 - name: bmc TL 1
   desc: ""
   origin:
@@ -249,7 +230,6 @@
     y: 100
     z: 4449
   color: green
-
 - name: bmc TL 2
   desc: ""
   origin:
@@ -261,7 +241,6 @@
     y: 100
     z: 10256
   color: green
-
 - name: bmc TL 3
   desc: ""
   origin:
@@ -273,7 +252,6 @@
     y: 100
     z: 13246
   color: green
-
 - name: bmc TL 4
   desc: ""
   origin:
@@ -285,7 +263,6 @@
     y: 100
     z: 11970
   color: green
-
 - name: bmc TL 5
   desc: ""
   origin:
@@ -297,7 +274,6 @@
     y: 100
     z: 16834
   color: green
-
 - name: bmc TL 6
   desc: ""
   origin:
@@ -309,7 +285,6 @@
     y: 100
     z: 17690
   color: green
-
 - name: bmc TL 7
   desc: ""
   origin:
@@ -321,7 +296,6 @@
     y: 100
     z: 16673
   color: pink
-
 - name: bmc TL 8
   desc: ""
   origin:
@@ -333,7 +307,6 @@
     y: 100
     z: 13496
   color: pink
-
 - name: bmc TL 9
   desc: ""
   origin:
@@ -345,7 +318,6 @@
     y: 100
     z: 9822
   color: pink
-
 - name: bmc TL 10
   desc: ""
   origin:
@@ -357,7 +329,6 @@
     y: 100
     z: -6543
   color: green
-
 - name: bmc TL 11
   desc: ""
   origin:
@@ -369,7 +340,6 @@
     y: 100
     z: -10575
   color: green
-
 - name: bmc TL 12
   desc: ""
   origin:
@@ -381,7 +351,6 @@
     y: 100
     z: -3098
   color: green
-
 - name: bmc TL 13
   desc: ""
   origin:
@@ -393,7 +362,6 @@
     y: 100
     z: -3773
   color: green
-
 - name: bmc TL 14
   desc: ""
   origin:
@@ -405,7 +373,6 @@
     y: 100
     z: -9977
   color: green
-
 - name: bmc TL 15
   desc: ""
   origin:
@@ -417,7 +384,6 @@
     y: 100
     z: -6810
   color: green
-
 - name: bmc TL 16
   desc: ""
   origin:
@@ -429,7 +395,6 @@
     y: 100
     z: -1835
   color: green
-
 - name: bmc TL 17
   desc: ""
   origin:
@@ -441,7 +406,6 @@
     y: 100
     z: -5610
   color: green
-
 - name: bmc TL 18
   desc: ""
   origin:
@@ -453,7 +417,6 @@
     y: 100
     z: 884
   color: green
-
 - name: bmc TL 19
   desc: ""
   origin:
@@ -465,7 +428,6 @@
     y: 100
     z: 2482
   color: green
-
 - name: bmc TL 20
   desc: ""
   origin:
@@ -477,7 +439,6 @@
     y: 100
     z: -3638
   color: red
-
 - name: bmc TL 21
   desc: ""
   origin:
@@ -489,7 +450,6 @@
     y: 22
     z: -7187
   color: "#0000B4"
-
 - name: bmc TL 22
   desc: ""
   origin:
@@ -501,7 +461,6 @@
     y: 24
     z: 192
   color: "#0000B4"
-
 - name: bmc TL 23
   desc: ""
   origin:
@@ -513,7 +472,6 @@
     y: 24
     z: -5176
   color: "#0000B4"
-
 - name: bmc TL 24
   desc: ""
   origin:
@@ -525,7 +483,6 @@
     y: 79
     z: -3519
   color: "#0000B4"
-
 - name: bmc TL 25
   desc: ""
   origin:
@@ -537,7 +494,6 @@
     y: 19
     z: -4619
   color: "#0000B4"
-
 - name: bmc TL 26
   desc: ""
   origin:
@@ -549,7 +505,6 @@
     y: 12
     z: 5939
   color: "#0000B4"
-
 - name: bmc TL 27
   desc: ""
   origin:
@@ -561,7 +516,6 @@
     y: 16
     z: 6023
   color: "#0000B4"
-
 - name: bmc TL 28
   desc: ""
   origin:
@@ -573,7 +527,6 @@
     y: 94
     z: 1266
   color: "#0000B4"
-
 - name: bmc TL 29
   desc: ""
   origin:
@@ -585,7 +538,6 @@
     y: 122
     z: 22611
   color: "0,0,180"
-
 - name: bmc TL 30
   desc: ""
   origin:
@@ -597,7 +549,6 @@
     y: 44
     z: 21755
   color: "#0000B4"
-
 - name: bmc TL 31
   desc: ""
   origin:
@@ -609,7 +560,6 @@
     y: 84
     z: 21043
   color: "#0000B4"
-
 - name: bmc TL 32
   desc: ""
   origin:
@@ -621,7 +571,6 @@
     y: 13
     z: 21974
   color: "#0000B4"
-
 - name: bmc TL 33
   desc: ""
   origin:
@@ -633,7 +582,6 @@
     y: 14
     z: 10659
   color: "#0000B4"
-
 - name: bmc TL 34
   desc: ""
   origin:
@@ -645,7 +593,6 @@
     y: 123
     z: -3583
   color: "#0000B4"
-
 - name: Akyrus TL 1
   desc: ""
   origin:
@@ -656,7 +603,6 @@
     x: 1462
     y: 100 # not provided
     z: -3862
-
 - name: Akyrus TL 2
   desc: ""
   origin:
@@ -667,7 +613,6 @@
     x: 1648
     y: 100 # not provided
     z: 7029
-
 - name: Akyrus TL 3
   desc: ""
   origin:
@@ -678,21 +623,8 @@
     x: 2247
     y: 100 # not provided
     z: -3402
-
-- name: Tournesol TL 1
-  desc:
-  origin:
-    x: 3561
-    y: 35
-    z: 16491
-  destination:
-    x: 5187
-    y: 92
-    z: 23384
-  color: ""
-
-- name: LR Southern
-  desc: ""
+- name: Lantern Reef South
+  desc: "Best stop for Cragholm"
   origin:
     x: 5148
     y: 100
@@ -702,9 +634,8 @@
     y: 100
     z: 30692
   color: pink
-
-- name: LR Northern (Tournesol)
-  desc: ""
+- name: Lantern Reef North
+  desc: "Best stop for Tournesol"
   origin:
     x: 5186
     y: 100
@@ -714,7 +645,6 @@
     y: 100
     z: 16492
   color: pink
-
 - name: Moon 7C-D
   desc: "D, near Pyrite Town, underwater, ladder down. C links to 7B."
   origin:
@@ -726,7 +656,6 @@
     y: 30
     z: 3306
   color: ""
-  
 - name: Moon 7A-B
   desc: "A, easy access from Plymouth, ladder down."
   origin:
@@ -738,7 +667,6 @@
     y: 21
     z: 1580
   color: ""
-  
 - name: Moon 5A-B
   desc: "A, easy access from Plymouth, ladder down."
   origin:
@@ -750,7 +678,6 @@
     y: 68
     z: 7142
   color: ""
-  
 - name: Moon 4A-B
   desc: "A, easy access from Plymouth, ladder down."
   origin:
@@ -762,7 +689,6 @@
     y: 23
     z: 4098
   color: ""
-  
 - name: Moon 3C-D
   desc: "Ladder on both sides"
   origin:
@@ -774,7 +700,6 @@
     y: 26
     z: 1496
   color: ""
-
 - name: Moon SE Plymouth
   desc: "Ladder on both sides"
   origin:
@@ -786,7 +711,6 @@
     y: 44
     z: -4408
   color: ""
-
 - name: Coven TL 1
   desc: ""
   origin:
@@ -798,7 +722,6 @@
     y: 92
     z: 11144
   color: ""
-
 - name: Coven TL 2
   desc: ""
   origin:
@@ -810,7 +733,6 @@
     y: 13
     z: 8166
   color: ""
-
 - name: Coven TL 2a
   desc: ""
   origin:
@@ -822,7 +744,6 @@
     y: 16
     z: 799
   color: ""
-
 - name: Coven TL 2b
   desc: ""
   origin:
@@ -834,7 +755,6 @@
     y: 83
     z: -3766
   color: ""
-
 - name: Argilita NE 1
   desc: ""
   origin:
@@ -846,7 +766,6 @@
     y: 22
     z: 7027
   color: "#FF7F00"
-
 - name: Argilita NE 1-1
   desc: ""
   origin:
@@ -858,7 +777,6 @@
     y: 84
     z: 14854
   color: "#FF7F00"
-
 - name: Argilita NE 1-2
   desc: ""
   origin:
@@ -870,7 +788,6 @@
     y: 34
     z: 13218
   color: "#FF7F00"
-
 - name: Argilita NW 1
   desc: ""
   origin:
@@ -882,7 +799,6 @@
     y: 12
     z: -3865
   color: "#FF7F00"
-
 - name: Argilita NW 1-1
   desc: ""
   origin:
@@ -894,7 +810,6 @@
     y: 66
     z: -3960
   color: "#FF7F00"
-
 - name: EaterofTitan 1
   desc: ""
   origin:
@@ -906,7 +821,6 @@
     y: 32
     z: 21134
   color: ""
-
 - name: EaterofTitan 2
   desc: ""
   origin:
@@ -918,7 +832,6 @@
     y: 38
     z: 19660
   color: ""
-
 - name: EaterofTitan 3
   desc: ""
   origin:
@@ -930,7 +843,6 @@
     y: 12
     z: 25972
   color: ""
-
 - name: EaterofTitan 4
   desc: ""
   origin:
@@ -942,7 +854,6 @@
     y: 65
     z: 11841
   color: ""
-
 - name: EaterofTitan 5
   desc: ""
   origin:
@@ -954,7 +865,6 @@
     y: 46
     z: 10684
   color: ""
-
 - name: EaterofTitan 6
   desc: ""
   origin:
@@ -966,7 +876,6 @@
     y: 80
     z: 11835
   color: ""
-
 - name: tootallferne 1
   desc: ""
   origin:
@@ -977,7 +886,6 @@
     x: 7380
     y: 110
     z: -2327
-
 - name: Fruit TL 1A
   desc: "Ladder to surface at origin"
   origin:
@@ -989,9 +897,9 @@
     y: 17
     z: 90
   color: yellow
-
 - name: Fruit TL 1B
-  desc: "300m long connecting path to Fruit TL 1C, no surface access at origin or destination"
+  desc: "300m long connecting path to Fruit TL 1C, no surface access at origin or
+    destination"
   origin:
     x: -1957
     y: 23
@@ -1001,7 +909,6 @@
     y: 18
     z: -5136
   color: yellow
-
 - name: Fruit TL 1C
   desc: "Ladder to surface at origin, no surface access at destination"
   origin:
@@ -1013,7 +920,6 @@
     y: 23
     z: -6585
   color: yellow
-
 - name: Fruit TL 2A
   desc: ""
   origin:
@@ -1025,7 +931,6 @@
     y: 85
     z: 4745
   color: yellow
-
 - name: Fruit TL 2B
   desc: ""
   origin:
@@ -1037,7 +942,6 @@
     y: 63
     z: -2522
   color: yellow
-
 - name: Fruit TL 3A
   desc: ""
   origin:
@@ -1049,7 +953,6 @@
     y: 67
     z: -5484
   color: yellow
-
 - name: Fruit TL 4A
   desc: "Ladder to surface at origin"
   origin:
@@ -1061,7 +964,6 @@
     y: 28
     z: 8045
   color: yellow
-
 - name: Fruit TL 4B
   desc: "No surface access at origin or destination"
   origin:
@@ -1073,7 +975,6 @@
     y: 23
     z: 14661
   color: yellow
-
 - name: Fruit TL 4C
   desc: "Ladder to surface at destination"
   origin:
@@ -1085,9 +986,9 @@
     y: 34
     z: 19514
   color: yellow
-
 - name: Fruit TL 5A
-  desc: "Ladder to surface at origin, no surface access at destination. Passage to Fruit TL 6A"
+  desc: "Ladder to surface at origin, no surface access at destination. Passage to
+    Fruit TL 6A"
   origin:
     x: -703
     y: 88
@@ -1097,7 +998,6 @@
     y: 18
     z: -5409
   color: yellow
-  
 - name: Fruit TL 6A
   desc: "Entrance through passage from Fruit TL 5A. No surface access at destination."
   origin:
@@ -1109,7 +1009,6 @@
     y: 18
     z: -5409
   color: yellow
-
 - name: New Beangard Northwest
   desc: ""
   origin:
@@ -1121,7 +1020,6 @@
     y: 32
     z: 5891
   color: ""
-
 - name: Atla TL 1A
   desc: ""
   origin:
@@ -1287,7 +1185,6 @@
     y: 63
     z: 30595
   color: green
-
 - name: Cragholm TL 1
   desc: ""
   origin:
@@ -1310,7 +1207,6 @@
     y: 101
     z: 36194
   color: green
-
 - name: Scholar's Wake Southeast
   desc: ""
   origin:
@@ -1322,7 +1218,6 @@
     y: 44
     z: 16416
   color: cyan
-
 - name: Scholar's Wake Northeast
   desc: ""
   origin:
@@ -1334,7 +1229,6 @@
     y: 12
     z: 5003
   color: cyan
-
 - name: Scholar's Wake East
   desc: ""
   origin:
@@ -1346,7 +1240,6 @@
     y: 71
     z: 10805
   color: cyan
-
 - name: Cragholm TL 3
   desc: ""
   origin:

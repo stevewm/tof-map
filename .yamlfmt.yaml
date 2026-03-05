@@ -1,0 +1,8 @@
+---
+formatter:
+  type: basic
+  include_document_start: true
+  include_document_end: false
+  eof_newline: true
+  force_array_style: block
+  max_line_length: 80
