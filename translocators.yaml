@@ -1339,3 +1339,14 @@
     y: 14
     z: 27457
   color: yellow
+- name: Scholar's Wake East 2
+  desc: ""
+  origin:
+    x: 11224
+    y: 149
+    z: 11706
+  destination:
+    x: 16516
+    y: 89
+    z: 12269
+  color: cyan
