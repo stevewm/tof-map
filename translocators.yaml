@@ -1350,3 +1350,14 @@
     y: 89
     z: 12269
   color: cyan
+- name: Scholar's Wake South
+  desc: ""
+  origin:
+    x: 10602
+    y: 80
+    z: 11011
+  destination:
+    x: 10129
+    y: 25
+    z: 17666
+  color: cyan
