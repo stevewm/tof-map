@@ -54,6 +54,17 @@
     y: 86
     z: 6887
   color: blue
+- name: Bear Island Tower 5-1
+  desc: ""
+  origin:
+    x: -8238
+    y: 81
+    z: 6868
+  destination:
+    x: -11210
+    y: 29
+    z: 12736
+  color: blue
 - name: Bear Island Cave
   desc: ""
   origin:
