@@ -1361,3 +1361,47 @@
     y: 25
     z: 17666
   color: cyan
+- name: Cragholm TL 4
+  desc: ""
+  origin:
+    x: 9655
+    y: 66
+    z: 30978
+  destination:
+    x: 14745
+    y: 37
+    z: 35395
+  color: green
+- name: Cragholm TL 4-1
+  desc: ""
+  origin:
+    x: 14712
+    y: 88
+    z: 35353
+  destination:
+    x: 16113
+    y: 110
+    z: 34187
+  color: green
+- name: Cragholm TL 4-2
+  desc: ""
+  origin:
+    x: 14762
+    y: 81
+    z: 35354
+  destination:
+    x: 18551
+    y: 55
+    z: 41822
+  color: green
+- name: Cragholm TL 4-2-1
+  desc: ""
+  origin:
+    x: 18448
+    y: 61
+    z: 41842
+  destination:
+    x: 12318
+    y: 12
+    z: 39230
+  color: green
