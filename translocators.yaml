@@ -1449,3 +1449,25 @@
     y: 12
     z: 39230
   color: green
+- name: Roiley TL 1
+  desc: ""
+  origin:
+    x: 1096
+    y: 86
+    z: 10448
+  destination:
+    x: 130
+    y: 66
+    z: 14733
+  color: ""
+- name: Roiley TL 2
+  desc: ""
+  origin:
+    x: 137
+    y: 60
+    z: 14729
+  destination:
+    x: 3117
+    y: 45
+    z: 10866
+  color: ""
