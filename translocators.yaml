@@ -1471,3 +1471,14 @@
     y: 45
     z: 10866
   color: ""
+- name: Bear Island Tower 3
+  desc: ""
+  origin:
+    x: -12710
+    y: 31
+    z: 1969
+  destination:
+    x: -20241
+    y: 19
+    z: 8300
+  color: ""
