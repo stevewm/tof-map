@@ -1482,3 +1482,36 @@
     y: 19
     z: 8300
   color: ""
+- name: Bear Island 2 Cave
+  desc: Links to Ravens Nest, access in lake via ladder
+  origin:
+    x: -3220
+    y: 58
+    z: 4284
+  destination:
+    x: -3861
+    y: 89
+    z: -1596
+  color: ""
+- name: Bear Island 2 Cave 2
+  desc: ""
+  origin:
+    x: -3840
+    y: 90
+    z: -1607
+  destination:
+    x: 593
+    y: 87
+    z: -7267
+  color: ""
+- name: Bear Island 3 Cave
+  desc: ""
+  origin:
+    x: -3217
+    y: 63
+    z: -4265
+  destination:
+    x: -10139
+    y: 38
+    z: 6667
+  color: ""
