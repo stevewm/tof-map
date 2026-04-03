@@ -24,7 +24,7 @@ export default function TranslocatorsLayer({ translocators, onPointClick }: Tran
       {translocators.map((node) => {
         const pos = convertToLeafletCoords(node.location)
         const linkedNode = node.linkedTranslocatorId ? nodeMap.get(node.linkedTranslocatorId) : null
-        const defaultColor = 'cyan';
+        const defaultColor = '#7A8A99';
 
         const shouldRenderLink = linkedNode && !renderedLinks.has(node.linkedTranslocatorId!)
         if (linkedNode) {
