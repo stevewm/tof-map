@@ -1548,3 +1548,58 @@
     y: 16
     z: 21497
   color: cyan
+- name: Abbey SE 01
+  desc: "Good area for mining stones - 4 different types around TL."
+  origin:
+    x: 4323
+    y: 31
+    z: 946
+  destination:
+    x: 11932
+    y: 110
+    z: 7360
+  color: ""
+- name: Abbey SE 01a
+  desc: "Leads to the bottom of the world."
+  origin:
+    x: 11918
+    y: 1110
+    z: 7359
+  destination:
+    x: 14561
+    y: 22
+    z: 4167
+  color: ""
+- name: Spawn BMC 1
+  desc: "Deep leads nowhere"
+  origin:
+    x: -74
+    y: 18
+    z: 79
+  destination:
+    x: 4202
+    y: 13
+    z: 6949
+  color: ""
+- name: BMC PV
+  desc: "DEATH"
+  origin:
+    x: -74
+    y: 12
+    z: 14661
+  destination:
+    x: 5686
+    y: 34
+    z: 17777
+  color: ""
+- name: North Pole 1
+  desc: "Cold"
+  origin:
+    x: 129
+    y: 86
+    z: -50099
+  destination:
+    x: 4540
+    y: 42
+    z: -48671
+  color: ""
