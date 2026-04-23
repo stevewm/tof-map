@@ -1603,3 +1603,69 @@
     y: 42
     z: -48671
   color: ""
+- name: North Pole 2
+  desc: ""
+  origin:
+    x: -151
+    y: 45
+    z: -49686
+  destination:
+    x: -6566
+    y: 23
+    z: -47663
+  color: ""
+- name: North Pole 2-1
+  desc: ""
+  origin:
+    x: -6731
+    y: 70
+    z: -47582
+  destination:
+    x: -3724
+    y: 44
+    z: -54977
+  color: ""
+- name: North Pole 2-2
+  desc: ""
+  origin:
+    x: -6417
+    y: 76
+    z: -47828
+  destination:
+    x: 1189
+    y: 27
+    z: -47108
+  color: ""
+- name: North Pole 2-2-1
+  desc: ""
+  origin:
+    x: 1176
+    y: 27
+    z: -47068
+  destination:
+    x: -5750
+    y: 82
+    z: -39194
+  color: ""
+- name: North Pole 3
+  desc: ""
+  origin:
+    x: 394
+    y: 120
+    z: -49973
+  destination:
+    x: 8200
+    y: 76
+    z: -51655
+  color: ""
+- name: BMC idk
+  desc: "goes to Suffering's base"
+  origin:
+    x: 513
+    y: 14
+    z: 13231
+  destination:
+    x: 2469
+    y: 14
+    z: 18092
+  color: "green"
