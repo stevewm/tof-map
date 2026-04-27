@@ -1669,3 +1669,58 @@
     y: 14
     z: 18092
   color: "green"
+- name: North Pole 2-2-1-1
+  desc: ""
+  origin:
+    x: -5764
+    y: 80
+    z: -39174
+  destination:
+    x: -11649
+    y: 54
+    z: -35241
+  color: ""
+- name: North Pole 2-2-1-1-1
+  desc: ""
+  origin:
+    x: -11668
+    y: 53
+    z: -35150
+  destination:
+    x: -7236
+    y: 107
+    z: -30141
+  color: ""
+- name: North Pole 2-2-1-1-1-1
+  desc: ""
+  origin:
+    x: -7097
+    y: 31
+    z: -30098
+  destination:
+    x: -9214
+    y: 23
+    z: -33907
+  color: ""
+- name: North Pole 2-2-1-1-1-2
+  desc: ""
+  origin:
+    x: -7508
+    y: 110
+    z: -30132
+  destination:
+    x: -1789
+    y: 30
+    z: -27165
+  color: ""
+- name: Bear Island Cave 2 Mine
+  desc: "Dead end room under the ocean"
+  origin:
+    x: 466
+    y: 106
+    z: -7236
+  destination:
+    x: 6669
+    y: 26
+    z: -12036
+  color: ""
