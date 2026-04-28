@@ -195,3 +195,23 @@
     x: 450
     y: 100 # not provided, assumed sea level
     z: 9566
+- name: Seaguard
+  location:
+    x: 6163
+    y: 128
+    z: 25447
+- name: Zafiroun
+  location:
+    x: 10800
+    y: 126
+    z: -5550
+- name: St. Vitus Abbey
+  location:
+    x: 4300
+    y: 100 # not provided, assumed sea level
+    z: 1000
+- name: Moonrest
+  location:
+    x: -4720
+    y: 100 # not provided, assumed sea level
+    z: 16370
