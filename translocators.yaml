@@ -1724,3 +1724,14 @@
     y: 26
     z: -12036
   color: ""
+- name: North Pole 2-2-1-1-1-2-1
+  desc: ""
+  origin:
+    x: -1503
+    y: 73
+    z: -27064
+  destination:
+    x: -64
+    y: 76
+    z: -20284
+  color: ""
