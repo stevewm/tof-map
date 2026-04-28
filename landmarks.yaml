@@ -215,3 +215,10 @@
     x: -4720
     y: 100 # not provided, assumed sea level
     z: 16370
+- name: North Pole
+  desc: |
+    Home to Santa (Duke) and his elves (drifters)
+  location:
+    x: 0
+    y: 110
+    z: -50000
