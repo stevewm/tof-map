@@ -1735,3 +1735,15 @@
     y: 76
     z: -20284
   color: ""
+- name: Bear Island Carthelli
+  desc: |
+    TL to Carthelli's base
+  origin:
+    x: -2996
+    y: 72
+    z: -3957
+  destination:
+    x: 662
+    y: 65
+    z: 4817
+  color: ""
