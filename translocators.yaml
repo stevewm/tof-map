@@ -1747,3 +1747,15 @@
     y: 65
     z: 4817
   color: ""
+- name: Bear Island North Cave
+  desc: |
+    Follow ladder down from Carthelli TL
+  origin:
+    x: -3000
+    y: 49
+    z: 3970
+  destination:
+    x: -2068
+    y: 57
+    z: 3096
+  color: ""
