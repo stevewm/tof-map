@@ -1504,17 +1504,6 @@
     y: 87
     z: -7267
   color: ""
-- name: Bear Island 3 Cave
-  desc: ""
-  origin:
-    x: -3217
-    y: 63
-    z: -4265
-  destination:
-    x: -10139
-    y: 38
-    z: 6667
-  color: ""
 - name: Scholar's Path 1-1
   desc: ""
   origin:
