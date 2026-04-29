@@ -1735,6 +1735,39 @@
     y: 76
     z: -20284
   color: ""
+- name: North Pole 2-2-1-1-1-2-1-1
+  desc: ""
+  origin:
+    x: 111
+    y: 90
+    z: -20274
+  destination:
+    x: -5530
+    y: 12
+    z: -12934
+  color: ""
+- name: North Pole 2-2-1-1-1-2-1-1-1
+  desc: ""
+  origin:
+    x: -5082
+    y: 34
+    z: -12388
+  destination:
+    x: -3639
+    y: 101
+    z: -12772
+  color: ""
+- name: North Pole 2-2-1-1-1-2-1-1-1-1
+  desc: ""
+  origin:
+    x: -3701
+    y: 101
+    z: -12663
+  destination:
+    x: -2004
+    y: 73
+    z: -16395
+  color: ""
 - name: Bear Island Carthelli
   desc: |
     TL to Carthelli's base
