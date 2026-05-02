@@ -1825,6 +1825,17 @@
     y: 42
     z: -10287
   color: ""
+- name: Sufferinghelp North TL 1
+  desc: "Ladder down from surface"
+  origin:
+    x: 717
+    y: 57
+    z: -7477
+  destination:
+    x: 3991
+    y: 26
+    z: -5954
+  color: ""
 - name: Sufferinghelp North TL 2
   desc: "Ladder down from surface"
   origin:
