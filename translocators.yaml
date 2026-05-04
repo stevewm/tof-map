@@ -1859,3 +1859,36 @@
     y: 84
     z: -8564
   color: ""
+- name: BMC North East 1
+  desc: ""
+  origin:
+    x: 3159
+    y: 41
+    z: -7077
+  destination:
+    x: 10520
+    y: 76
+    z: -11684
+  color: ""
+- name: BMC North East 2
+  desc: ""
+  origin:
+    x: 10387
+    y: 77
+    z: -11679
+  destination:
+    x: 13639
+    y: 26
+    z: -14379
+  color: ""
+- name: BMC North East 1-2
+  desc: ""
+  origin:
+    x: 3255
+    y: 74
+    z: -7009
+  destination:
+    x: 9276
+    y: 13
+    z: -13741
+  color: "Blue"
