@@ -1851,13 +1851,13 @@
   desc: |
     Ladder down from surface
   origin:
-    x: 181
-    y: 79
-    z: -7028
+    x: 289
+    y: 96
+    z: -7048
   destination:
-    x: 7158
-    y: 84
-    z: -8564
+    x: 2951
+    y: 40
+    z: -4794
   color: ""
 - name: BMC North East 1
   desc: ""
