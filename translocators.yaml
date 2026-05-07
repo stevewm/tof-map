@@ -1892,3 +1892,36 @@
     y: 13
     z: -13741
   color: "Blue"
+- name: BMC South-East
+  desc: ""
+  origin:
+    x: 5219
+    y: 50
+    z: 13023
+  destination:
+    x: 5219
+    y: 50
+    z: 13023
+  color: "Red"
+- name: BMC South-East
+  desc: ""
+  origin:
+    x: -397
+    y: 65
+    z: 12626
+  destination:
+    x: 5211
+    y: 39
+    z: 13027
+  color: "Red"
+- name: BMC South-East
+  desc: ""
+  origin:
+    x: 5228
+    y: 44
+    z: 13117
+  destination:
+    x: 3679
+    y: 16
+    z: 14446
+  color: "Red"
