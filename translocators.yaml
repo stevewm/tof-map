@@ -1925,3 +1925,69 @@
     y: 16
     z: 14446
   color: "Red"
+- name: BMC Spam 1
+  desc: ""
+  origin:
+    x: -454
+    y: 29
+    z: 13634
+  destination:
+    x: 891
+    y: 44
+    z: 7196
+  color: "Red"
+- name: BMC Spam 2
+  desc: ""
+  origin:
+    x: -476
+    y: 44
+    z: 12619
+  destination:
+    x: 3819
+    y: 12
+    z: 12227
+  color: "Red"
+- name: BMC Spam 3
+  desc: ""
+  origin:
+    x: -505
+    y: 40
+    z: 13624
+  destination:
+    x: 6579
+    y: 14
+    z: 14840
+  color: "Red"
+- name: BMC Spam 4
+  desc: ""
+  origin:
+    x: -523
+    y: 54
+    z: 13585
+  destination:
+    x: -6143
+    y: 17
+    z: 10812
+  color: "Red"
+- name: BMC Spam 4-1
+  desc: ""
+  origin:
+    x: -6137
+    y: 20
+    z: 10817
+  destination:
+    x: -3043
+    y: 24
+    z: 15521
+  color: "Red"
+- name: BMC Spam 4-1-1
+  desc: ""
+  origin:
+    x: -2989
+    y: 37
+    z: 15560
+  destination:
+    x: 4922
+    y: 73
+    z: 13864
+  color: "Red"
