@@ -1925,6 +1925,17 @@
     y: 16
     z: 14446
   color: "Red"
+- name: BMC Spam 0
+  desc: ""
+  origin:
+    x: -6819
+    y: 53
+    z: 17803
+  destination:
+    x: -429
+    y: 76
+    z: 13655
+  color: "Red"
 - name: BMC Spam 1
   desc: ""
   origin:
@@ -1990,4 +2001,37 @@
     x: 4922
     y: 73
     z: 13864
+  color: "Red"
+- name: BMC Spam 5
+  desc: ""
+  origin:
+    x: -505
+    y: 40
+    z: 13624
+  destination:
+    x: 6579
+    y: 14
+    z: 14840
+  color: "Red"
+- name: Sea Breeze TL South
+  desc: ""
+  origin:
+    x: 2356
+    y: 100
+    z: -129
+  destination:
+    x: -1267
+    y: 13
+    z: 7071
+  color: "Red"
+- name: Sea Breeze TL South 2
+  desc: ""
+  origin:
+    x: 2408
+    y: 50
+    z: -112
+  destination:
+    x: 9845
+    y: 49
+    z: 6832
   color: "Red"
