@@ -22,7 +22,7 @@
     "next": "16.2.9",
     "npm": "^11.7.0",
     "react": "19.2.7",
-    "react-dom": "19.2.7",
+    "react-dom": "19.2.8",
     "react-leaflet": "^5.0.0-rc.2",
     "slugify": "^1.6.6",
     "tailwind-merge": "^3.4.0"
