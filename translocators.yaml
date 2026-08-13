@@ -2035,3 +2035,47 @@
     y: 49
     z: 6832
   color: "Red"
+- name: North Pole A
+  desc: ""
+  origin:
+    x: 4117
+    y: 39
+    z: -7508
+  destination:
+    x: 312
+    y: 113
+    z: -9919
+  color: ""
+- name: PV island 3
+  desc: "Pink marble for free"
+  origin:
+    x: 878
+    y: 38
+    z: 14809
+  destination:
+    x: 5176
+    y: 25
+    z: 9910
+  color: "Red"
+- name: PV island 3
+  desc: "Lead"
+  origin:
+    x: 878
+    y: 38
+    z: 14809
+  destination:
+    x: -6008
+    y: 21
+    z: 20186
+  color: "Red"
+- name: PV cont 1
+  desc: "unknown"
+  origin:
+    x: -259
+    y: 108
+    z: 16277
+  destination:
+    x: -4840
+    y: 58
+    z: 15717
+  color: "Red"
