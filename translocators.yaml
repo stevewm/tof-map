@@ -2387,3 +2387,14 @@
     y: 42
     z: 41844
   color: "pink"
+- name: North Pole A
+  desc: ""
+  origin:
+    x: 4117
+    y: 39
+    z: -7508
+  destination:
+    x: 312
+    y: 113
+    z: -9919
+  color: ""
