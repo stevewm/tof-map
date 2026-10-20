@@ -273,7 +273,7 @@
     x: -1322
     y: 100
     z: 4449
-  color: ""
+  color: "Blue"
 - name: bmc TL 2
   desc: ""
   origin:
@@ -284,7 +284,7 @@
     x: 3125
     y: 100
     z: 10256
-  color: ""
+  color: "Blue"
 - name: bmc TL 3
   desc: ""
   origin:
@@ -471,7 +471,7 @@
     x: 9255
     y: 100
     z: 2482
-  color: ""
+  color: "Blue"
 - name: bmc TL 20
   desc: ""
   origin:
@@ -504,7 +504,7 @@
     x: 4600
     y: 24
     z: 192
-  color: ""
+  color: "Aqua"
 - name: bmc TL 23
   desc: ""
   origin:
@@ -526,7 +526,7 @@
     x: 5182
     y: 79
     z: -3519
-  color: ""
+  color: "Aqua"
 - name: bmc TL 25
   desc: ""
   origin:
@@ -548,7 +548,7 @@
     x: 15447
     y: 12
     z: 5939
-  color: ""
+  color: "Blue"
 - name: bmc TL 27
   desc: ""
   origin:
@@ -625,7 +625,7 @@
     x: 3268
     y: 14
     z: 10659
-  color: ""
+  color: "Blue"
 - name: bmc TL 34
   desc: ""
   origin:
@@ -1283,7 +1283,7 @@
     x: 15007
     y: 12
     z: 5003
-  color: ""
+  color: "Blue"
 - name: Scholar's Wake East
   desc: ""
   origin:
@@ -1846,7 +1846,7 @@
     x: 5253
     y: 58
     z: -3427
-  color: ""
+  color: "Aqua"
 - name: Sufferinghelp North TL 3
   desc: |
     Ladder down from surface
