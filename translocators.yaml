@@ -9,7 +9,7 @@
     x: -2542
     y: 126
     z: 5320
-  color: ""
+  color: "Purple"
 - name: Bear Island Tower 2
   desc: Linked to the Bear Island Tower translocator via a tunnel
   origin:
@@ -20,7 +20,7 @@
     x: 1413
     y: 72
     z: 10238
-  color: ""
+  color: "Red"
 - name: Bear Island Tower 3
   desc: ""
   origin:
@@ -108,7 +108,7 @@
     x: -3179
     y: 47
     z: 5490
-  color: ""
+  color: "Red"
 - name: Plymouth TL 3
   desc:
   origin:
@@ -1459,7 +1459,7 @@
     x: 130
     y: 66
     z: 14733
-  color: ""
+  color: "Red"
 - name: Roiley TL 2
   desc: ""
   origin:
@@ -1492,7 +1492,7 @@
     x: -3861
     y: 89
     z: -1596
-  color: ""
+  color: "Violet"
 - name: Bear Island 2 Cave 2
   desc: ""
   origin:
@@ -1503,7 +1503,7 @@
     x: 593
     y: 87
     z: -7267
-  color: ""
+  color: "Violet"
 - name: Scholar's Path 1-1
   desc: ""
   origin:
@@ -1602,7 +1602,7 @@
     x: -6566
     y: 23
     z: -47663
-  color: ""
+  color: "Purple"
 - name: North Pole 3
   desc: ""
   origin:
@@ -1624,7 +1624,7 @@
     x: 1189
     y: 27
     z: -47108
-  color: ""
+  color: "Purple"
 - name: North Pole 5
   desc: ""
   origin:
@@ -1635,7 +1635,7 @@
     x: -5750
     y: 82
     z: -39194
-  color: ""
+  color: "Purple"
 - name: North Pole 6
   desc: ""
   origin:
@@ -1668,7 +1668,7 @@
     x: -11649
     y: 54
     z: -35241
-  color: ""
+  color: "Purple"
 - name: North Pole 8
   desc: ""
   origin:
@@ -1679,7 +1679,7 @@
     x: -7236
     y: 107
     z: -30141
-  color: ""
+  color: "Purple"
 - name: North Pole 9
   desc: ""
   origin:
@@ -1701,7 +1701,7 @@
     x: -1789
     y: 30
     z: -27165
-  color: ""
+  color: "Purple"
 - name: Bear Island Cave 2 Mine
   desc: "Dead end room under the ocean"
   origin:
@@ -2420,7 +2420,7 @@
     x: -7363
     y: 84
     z: -15467
-  color: ""
+  color: "Purple"
 - name: North Pole 23
   desc: ""
   origin:
@@ -2431,7 +2431,7 @@
     x: -2648
     y: 125
     z: -21048
-  color: ""
+  color: "Purple"
 - name: North Pole 24
   desc: ""
   origin:
@@ -2442,7 +2442,7 @@
     x: -1765
     y: 21
     z: -27103
-  color: ""
+  color: "Purple"
 - name: North Pole 25
   desc: ""
   origin:
