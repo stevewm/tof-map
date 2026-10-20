@@ -9,7 +9,7 @@
     x: -2542
     y: 126
     z: 5320
-  color: blue
+  color: ""
 - name: Bear Island Tower 2
   desc: Linked to the Bear Island Tower translocator via a tunnel
   origin:
@@ -20,7 +20,7 @@
     x: 1413
     y: 72
     z: 10238
-  color: blue
+  color: ""
 - name: Bear Island Tower 3
   desc: ""
   origin:
@@ -31,7 +31,7 @@
     x: -8832
     y: 85
     z: -1375
-  color: blue
+  color: ""
 - name: Bear Island Tower 4
   desc: ""
   origin:
@@ -42,7 +42,7 @@
     x: 2155
     y: 12
     z: 4910
-  color: blue
+  color: ""
 - name: Bear Island Tower 5
   desc: ""
   origin:
@@ -53,7 +53,7 @@
     x: -8257
     y: 86
     z: 6887
-  color: blue
+  color: ""
 - name: Bear Island Tower 5-1
   desc: ""
   origin:
@@ -64,7 +64,7 @@
     x: -11210
     y: 29
     z: 12736
-  color: blue
+  color: ""
 - name: Bear Island Cave
   desc: ""
   origin:
@@ -75,7 +75,7 @@
     x: -6173
     y: 90
     z: -2477
-  color: orange
+  color: ""
 - name: Bear Island Cave 2
   desc: Destination is under the ocean
   origin:
@@ -86,7 +86,7 @@
     x: -12737
     y: 51
     z: 2079
-  color: orange
+  color: ""
 - name: Plymouth TL 1
   desc:
   origin:
@@ -97,7 +97,7 @@
     x: 7050
     y: 17
     z: -6740
-  color: red
+  color: ""
 - name: Plymouth TL 2
   desc:
   origin:
@@ -108,7 +108,7 @@
     x: -3179
     y: 47
     z: 5490
-  color: red
+  color: ""
 - name: Plymouth TL 3
   desc:
   origin:
@@ -152,7 +152,7 @@
     x: -5237
     y: 29
     z: -314
-  color: purple
+  color: ""
 - name: Cap TL 2
   desc:
   origin:
@@ -163,7 +163,7 @@
     x: -10814
     y: 40
     z: 1692
-  color: purple
+  color: ""
 - name: Aldermere TL 1
   desc:
   origin:
@@ -229,7 +229,7 @@
     x: 1127
     y: 183
     z: 7098
-  color: teal
+  color: ""
 - name: Me-mow TL 3
   desc:
   origin:
@@ -240,7 +240,7 @@
     x: 5404
     y: 1
     z: 14725
-  color: teal
+  color: ""
 - name: Ergiler TL 1
   desc:
   origin:
@@ -273,7 +273,7 @@
     x: -1322
     y: 100
     z: 4449
-  color: green
+  color: ""
 - name: bmc TL 2
   desc: ""
   origin:
@@ -284,7 +284,7 @@
     x: 3125
     y: 100
     z: 10256
-  color: green
+  color: ""
 - name: bmc TL 3
   desc: ""
   origin:
@@ -295,7 +295,7 @@
     x: 388
     y: 100
     z: 13246
-  color: green
+  color: ""
 - name: bmc TL 4
   desc: ""
   origin:
@@ -306,7 +306,7 @@
     x: -2135
     y: 100
     z: 11970
-  color: green
+  color: ""
 - name: bmc TL 5
   desc: ""
   origin:
@@ -317,7 +317,7 @@
     x: -2629
     y: 100
     z: 16834
-  color: green
+  color: ""
 - name: bmc TL 6
   desc: ""
   origin:
@@ -328,7 +328,7 @@
     x: -6652
     y: 100
     z: 17690
-  color: green
+  color: ""
 - name: bmc TL 7
   desc: ""
   origin:
@@ -339,7 +339,7 @@
     x: 3788
     y: 100
     z: 16673
-  color: pink
+  color: ""
 - name: bmc TL 8
   desc: ""
   origin:
@@ -350,7 +350,7 @@
     x: 4508
     y: 100
     z: 13496
-  color: pink
+  color: ""
 - name: bmc TL 9
   desc: ""
   origin:
@@ -361,7 +361,7 @@
     x: 7447
     y: 100
     z: 9822
-  color: pink
+  color: ""
 - name: bmc TL 10
   desc: ""
   origin:
@@ -372,7 +372,7 @@
     x: 10641
     y: 100
     z: -6543
-  color: green
+  color: ""
 - name: bmc TL 11
   desc: ""
   origin:
@@ -383,7 +383,7 @@
     x: 15624
     y: 100
     z: -10575
-  color: green
+  color: ""
 - name: bmc TL 12
   desc: ""
   origin:
@@ -394,7 +394,7 @@
     x: 19579
     y: 100
     z: -3098
-  color: green
+  color: ""
 - name: bmc TL 13
   desc: ""
   origin:
@@ -405,7 +405,7 @@
     x: 20948
     y: 100
     z: -3773
-  color: green
+  color: ""
 - name: bmc TL 14
   desc: ""
   origin:
@@ -416,7 +416,7 @@
     x: 26602
     y: 100
     z: -9977
-  color: green
+  color: ""
 - name: bmc TL 15
   desc: ""
   origin:
@@ -427,7 +427,7 @@
     x: 22906
     y: 100
     z: -6810
-  color: green
+  color: ""
 - name: bmc TL 16
   desc: ""
   origin:
@@ -438,7 +438,7 @@
     x: 22498
     y: 100
     z: -1835
-  color: green
+  color: ""
 - name: bmc TL 17
   desc: ""
   origin:
@@ -449,7 +449,7 @@
     x: 24184
     y: 100
     z: -5610
-  color: green
+  color: ""
 - name: bmc TL 18
   desc: ""
   origin:
@@ -460,7 +460,7 @@
     x: 6597
     y: 100
     z: 884
-  color: green
+  color: ""
 - name: bmc TL 19
   desc: ""
   origin:
@@ -471,7 +471,7 @@
     x: 9255
     y: 100
     z: 2482
-  color: green
+  color: ""
 - name: bmc TL 20
   desc: ""
   origin:
@@ -482,7 +482,7 @@
     x: 11071
     y: 100
     z: -3638
-  color: red
+  color: ""
 - name: bmc TL 21
   desc: ""
   origin:
@@ -493,7 +493,7 @@
     x: 3142
     y: 22
     z: -7187
-  color: "#0000B4"
+  color: ""
 - name: bmc TL 22
   desc: ""
   origin:
@@ -504,7 +504,7 @@
     x: 4600
     y: 24
     z: 192
-  color: "#0000B4"
+  color: ""
 - name: bmc TL 23
   desc: ""
   origin:
@@ -515,7 +515,7 @@
     x: 7637
     y: 24
     z: -5176
-  color: "#0000B4"
+  color: ""
 - name: bmc TL 24
   desc: ""
   origin:
@@ -526,7 +526,7 @@
     x: 5182
     y: 79
     z: -3519
-  color: "#0000B4"
+  color: ""
 - name: bmc TL 25
   desc: ""
   origin:
@@ -537,7 +537,7 @@
     x: 15603
     y: 19
     z: -4619
-  color: "#0000B4"
+  color: ""
 - name: bmc TL 26
   desc: ""
   origin:
@@ -548,7 +548,7 @@
     x: 15447
     y: 12
     z: 5939
-  color: "#0000B4"
+  color: ""
 - name: bmc TL 27
   desc: ""
   origin:
@@ -559,7 +559,7 @@
     x: 1695
     y: 16
     z: 6023
-  color: "#0000B4"
+  color: ""
 - name: bmc TL 28
   desc: ""
   origin:
@@ -570,7 +570,7 @@
     x: 5134
     y: 94
     z: 1266
-  color: "#0000B4"
+  color: ""
 - name: bmc TL 29
   desc: ""
   origin:
@@ -581,7 +581,7 @@
     x: -8592
     y: 122
     z: 22611
-  color: "0,0,180"
+  color: ""
 - name: bmc TL 30
   desc: ""
   origin:
@@ -592,7 +592,7 @@
     x: -3812
     y: 44
     z: 21755
-  color: "#0000B4"
+  color: ""
 - name: bmc TL 31
   desc: ""
   origin:
@@ -603,7 +603,7 @@
     x: -7922
     y: 84
     z: 21043
-  color: "#0000B4"
+  color: ""
 - name: bmc TL 32
   desc: ""
   origin:
@@ -614,7 +614,7 @@
     x: -8117
     y: 13
     z: 21974
-  color: "#0000B4"
+  color: ""
 - name: bmc TL 33
   desc: ""
   origin:
@@ -625,7 +625,7 @@
     x: 3268
     y: 14
     z: 10659
-  color: "#0000B4"
+  color: ""
 - name: bmc TL 34
   desc: ""
   origin:
@@ -636,7 +636,7 @@
     x: 3748
     y: 123
     z: -3583
-  color: "#0000B4"
+  color: ""
 - name: Akyrus TL 1
   desc: ""
   origin:
@@ -677,7 +677,7 @@
     x: 8507
     y: 55
     z: 30692
-  color: yellow
+  color: ""
 - name: Lantern Reef North
   desc: "Best stop for Tournesol"
   origin:
@@ -688,7 +688,7 @@
     x: 3562
     y: 35
     z: 16492
-  color: yellow
+  color: ""
 - name: Lantern Reef West
   desc: ""
   origin:
@@ -699,7 +699,7 @@
     x: -2540
     y: 43
     z: 22904
-  color: yellow
+  color: ""
 - name: Moon 7C-D
   desc: "D, near Pyrite Town, underwater, ladder down. C links to 7B."
   origin:
@@ -820,7 +820,7 @@
     x: -1651
     y: 22
     z: 7027
-  color: "#FF7F00"
+  color: ""
 - name: Argilita NE 1-1
   desc: ""
   origin:
@@ -831,7 +831,7 @@
     x: -4281
     y: 84
     z: 14854
-  color: "#FF7F00"
+  color: ""
 - name: Argilita NE 1-2
   desc: ""
   origin:
@@ -842,7 +842,7 @@
     x: -9745
     y: 34
     z: 13218
-  color: "#FF7F00"
+  color: ""
 - name: Argilita NW 1
   desc: ""
   origin:
@@ -853,7 +853,7 @@
     x: 1460
     y: 12
     z: -3865
-  color: "#FF7F00"
+  color: ""
 - name: Argilita NW 1-1
   desc: ""
   origin:
@@ -864,7 +864,7 @@
     x: -2003
     y: 66
     z: -3960
-  color: "#FF7F00"
+  color: ""
 - name: EaterofTitan 1
   desc: ""
   origin:
@@ -951,7 +951,7 @@
     x: -1966
     y: 17
     z: 90
-  color: yellow
+  color: ""
 - name: Fruit TL 1B
   desc: "300m long connecting path to Fruit TL 1C, no surface access at origin or
     destination"
@@ -963,7 +963,7 @@
     x: 1995
     y: 18
     z: -5136
-  color: yellow
+  color: ""
 - name: Fruit TL 1C
   desc: "Ladder to surface at origin, no surface access at destination"
   origin:
@@ -974,7 +974,7 @@
     x: 1490
     y: 23
     z: -6585
-  color: yellow
+  color: ""
 - name: Fruit TL 2A
   desc: ""
   origin:
@@ -985,7 +985,7 @@
     x: 1354
     y: 85
     z: 4745
-  color: yellow
+  color: ""
 - name: Fruit TL 2B
   desc: ""
   origin:
@@ -996,7 +996,7 @@
     x: 4376
     y: 63
     z: -2522
-  color: yellow
+  color: ""
 - name: Fruit TL 3A
   desc: ""
   origin:
@@ -1007,7 +1007,7 @@
     x: 6180
     y: 67
     z: -5484
-  color: yellow
+  color: ""
 - name: Fruit TL 4A
   desc: "Ladder to surface at origin"
   origin:
@@ -1018,7 +1018,7 @@
     x: 5438
     y: 28
     z: 8045
-  color: yellow
+  color: ""
 - name: Fruit TL 4B
   desc: "No surface access at origin or destination"
   origin:
@@ -1029,7 +1029,7 @@
     x: 10665
     y: 23
     z: 14661
-  color: yellow
+  color: ""
 - name: Fruit TL 4C
   desc: "Ladder to surface at destination"
   origin:
@@ -1040,7 +1040,7 @@
     x: 13555
     y: 34
     z: 19514
-  color: yellow
+  color: ""
 - name: Fruit TL 5A
   desc: "Ladder to surface at origin, no surface access at destination. Passage to
     Fruit TL 6A"
@@ -1052,7 +1052,7 @@
     x: -2195
     y: 18
     z: -5409
-  color: yellow
+  color: ""
 - name: Fruit TL 6A
   desc: "Entrance through passage from Fruit TL 5A. No surface access at destination."
   origin:
@@ -1063,7 +1063,7 @@
     x: -2195
     y: 18
     z: -5409
-  color: yellow
+  color: ""
 - name: New Beangard Northwest
   desc: ""
   origin:
@@ -1085,7 +1085,7 @@
     x: 1038
     y: 47
     z: 18457
-  color: green
+  color: ""
 - name: Atla TL 2A
   desc: ""
   origin:
@@ -1096,7 +1096,7 @@
     x: 1242
     y: 15
     z: 18803
-  color: green
+  color: ""
 - name: Atla TL 3A
   desc: ""
   origin:
@@ -1107,7 +1107,7 @@
     x: -8530
     y: 27
     z: 20026
-  color: green
+  color: ""
 - name: Atla TL 4A
   desc: ""
   origin:
@@ -1118,7 +1118,7 @@
     x: -1284
     y: 107
     z: 8744
-  color: green
+  color: ""
 - name: Atla TL 5A
   desc: ""
   origin:
@@ -1129,7 +1129,7 @@
     x: 3451
     y: 70
     z: 13893
-  color: green
+  color: ""
 - name: Atla TL 6A
   desc: ""
   origin:
@@ -1140,7 +1140,7 @@
     x: -8233
     y: 85
     z: 20676
-  color: green
+  color: ""
 - name: Atla TL 7A
   desc: ""
   origin:
@@ -1151,7 +1151,7 @@
     x: -11401
     y: 85
     z: 23000
-  color: green
+  color: ""
 - name: Beangard Southroad TL1
   desc: "Ladder from surface to TL"
   origin:
@@ -1162,7 +1162,7 @@
     x: -3406
     y: 85
     z: 20296
-  color: green
+  color: ""
 - name: Beangard Southroad TL2
   desc: "TL around the corner and down a bit"
   origin:
@@ -1173,7 +1173,7 @@
     x: -10080
     y: 26
     z: 27792
-  color: green
+  color: ""
 - name: New Beangard to Lantern Reef TL
   desc: ""
   origin:
@@ -1184,7 +1184,7 @@
     x: 4083
     y: 26
     z: 20643
-  color: green
+  color: ""
 - name: Atla TL 10A
   desc: ""
   origin:
@@ -1195,7 +1195,7 @@
     x: -4069
     y: 11
     z: 16379
-  color: green
+  color: ""
 - name: Atla TL 11A
   desc: ""
   origin:
@@ -1206,7 +1206,7 @@
     x: -4377
     y: 15
     z: 20573
-  color: green
+  color: ""
 - name: Beangard Southroad TL3
   desc: "Ladder from surface to TL"
   origin:
@@ -1217,7 +1217,7 @@
     x: -12294
     y: 81
     z: 34666
-  color: green
+  color: ""
 - name: Atla TL 13A
   desc: ""
   origin:
@@ -1228,7 +1228,7 @@
     x: -20124
     y: 22
     z: 28720
-  color: green
+  color: ""
 - name: Atla TL 14A
   desc: ""
   origin:
@@ -1239,7 +1239,7 @@
     x: -11688
     y: 63
     z: 30595
-  color: green
+  color: ""
 - name: Cragholm TL 1
   desc: ""
   origin:
@@ -1250,7 +1250,7 @@
     x: 7706
     y: 124
     z: 34410
-  color: green
+  color: ""
 - name: Cragholm TL 2
   desc: ""
   origin:
@@ -1261,7 +1261,7 @@
     x: 12584
     y: 101
     z: 36194
-  color: green
+  color: ""
 - name: Scholar's Wake Southeast
   desc: ""
   origin:
@@ -1272,7 +1272,7 @@
     x: 13206
     y: 44
     z: 16416
-  color: cyan
+  color: ""
 - name: Scholar's Wake Northeast
   desc: ""
   origin:
@@ -1283,7 +1283,7 @@
     x: 15007
     y: 12
     z: 5003
-  color: cyan
+  color: ""
 - name: Scholar's Wake East
   desc: ""
   origin:
@@ -1294,7 +1294,7 @@
     x: 18128
     y: 71
     z: 10805
-  color: cyan
+  color: ""
 - name: Cragholm TL 3
   desc: ""
   origin:
@@ -1305,7 +1305,7 @@
     x: 16469
     y: 12
     z: 34493
-  color: green
+  color: ""
 - name: "Cragholm TL 3-1"
   desc: ""
   origin:
@@ -1316,7 +1316,7 @@
     x: 13040
     y: 14
     z: 30525
-  color: green
+  color: ""
 - name: "Cragholm TL 3-1-1"
   desc: ""
   origin:
@@ -1327,7 +1327,7 @@
     x: 14714
     y: 12
     z: 33660
-  color: green
+  color: ""
 - name: "Cragholm TL 3-1-2"
   desc: ""
   origin:
@@ -1338,7 +1338,7 @@
     x: 10871
     y: 58
     z: 36939
-  color: green
+  color: ""
 - name: Port Venture TL2
   desc: "Under Tavern"
   origin:
@@ -1349,7 +1349,7 @@
     x: -2933
     y: 74
     z: 12012
-  color: blue
+  color: ""
 - name: Port Venture TL3
   desc: ""
   origin:
@@ -1360,7 +1360,7 @@
     x: 4820
     y: 12
     z: 9973
-  color: blue
+  color: ""
 - name: "Tournesol TL 5"
   desc: ""
   origin:
@@ -1371,7 +1371,7 @@
     x: -1564
     y: 40
     z: 22879
-  color: yellow
+  color: ""
 - name: "Tournesol TL 5-1"
   desc: ""
   origin:
@@ -1382,7 +1382,7 @@
     x: -8190
     y: 14
     z: 27457
-  color: yellow
+  color: ""
 - name: Scholar's Wake East 2
   desc: ""
   origin:
@@ -1393,7 +1393,7 @@
     x: 16516
     y: 89
     z: 12269
-  color: cyan
+  color: ""
 - name: Scholar's Path 1
   desc: ""
   origin:
@@ -1404,7 +1404,7 @@
     x: 10129
     y: 25
     z: 17666
-  color: cyan
+  color: ""
 - name: Cragholm TL 4
   desc: ""
   origin:
@@ -1415,7 +1415,7 @@
     x: 14745
     y: 37
     z: 35395
-  color: green
+  color: ""
 - name: Cragholm TL 4-1
   desc: ""
   origin:
@@ -1426,7 +1426,7 @@
     x: 16113
     y: 110
     z: 34187
-  color: green
+  color: ""
 - name: Cragholm TL 4-2
   desc: ""
   origin:
@@ -1437,7 +1437,7 @@
     x: 18551
     y: 55
     z: 41822
-  color: green
+  color: ""
 - name: Cragholm TL 4-2-1
   desc: ""
   origin:
@@ -1448,7 +1448,7 @@
     x: 12318
     y: 12
     z: 39230
-  color: green
+  color: ""
 - name: Roiley TL 1
   desc: ""
   origin:
@@ -1514,7 +1514,7 @@
     x: 13990
     y: 51
     z: 11885
-  color: cyan
+  color: ""
 - name: Scholar's Path 1-2
   desc: ""
   origin:
@@ -1525,7 +1525,7 @@
     x: 13584
     y: 12
     z: 23648
-  color: cyan
+  color: ""
 - name: Scholar's Path 1-2-1
   desc: ""
   origin:
@@ -1536,7 +1536,7 @@
     x: 20886
     y: 16
     z: 21497
-  color: cyan
+  color: ""
 - name: Abbey SE 01
   desc: "Good area for mining stones - 4 different types around TL."
   origin:
@@ -1603,7 +1603,7 @@
     y: 23
     z: -47663
   color: ""
-- name: North Pole 2-1
+- name: North Pole 3
   desc: ""
   origin:
     x: -6731
@@ -1614,7 +1614,7 @@
     y: 44
     z: -54977
   color: ""
-- name: North Pole 2-2
+- name: North Pole 4
   desc: ""
   origin:
     x: -6417
@@ -1625,7 +1625,7 @@
     y: 27
     z: -47108
   color: ""
-- name: North Pole 2-2-1
+- name: North Pole 5
   desc: ""
   origin:
     x: 1176
@@ -1636,7 +1636,7 @@
     y: 82
     z: -39194
   color: ""
-- name: North Pole 3
+- name: North Pole 6
   desc: ""
   origin:
     x: 394
@@ -1657,8 +1657,8 @@
     x: 2469
     y: 14
     z: 18092
-  color: "green"
-- name: North Pole 2-2-1-1
+  color: ""
+- name: North Pole 7
   desc: ""
   origin:
     x: -5764
@@ -1669,7 +1669,7 @@
     y: 54
     z: -35241
   color: ""
-- name: North Pole 2-2-1-1-1
+- name: North Pole 8
   desc: ""
   origin:
     x: -11668
@@ -1680,7 +1680,7 @@
     y: 107
     z: -30141
   color: ""
-- name: North Pole 2-2-1-1-1-1
+- name: North Pole 9
   desc: ""
   origin:
     x: -7097
@@ -1691,7 +1691,7 @@
     y: 23
     z: -33907
   color: ""
-- name: North Pole 2-2-1-1-1-2
+- name: North Pole 10
   desc: ""
   origin:
     x: -7508
@@ -1713,7 +1713,7 @@
     y: 26
     z: -12036
   color: ""
-- name: North Pole 2-2-1-1-1-2-1
+- name: North Pole 11
   desc: ""
   origin:
     x: -1503
@@ -1724,7 +1724,7 @@
     y: 76
     z: -20284
   color: ""
-- name: North Pole 2-2-1-1-1-2-1-1
+- name: North Pole 12
   desc: ""
   origin:
     x: 111
@@ -1735,7 +1735,7 @@
     y: 12
     z: -12934
   color: ""
-- name: North Pole 2-2-1-1-1-2-1-1-1
+- name: North Pole 13
   desc: ""
   origin:
     x: -5082
@@ -1746,7 +1746,7 @@
     y: 101
     z: -12772
   color: ""
-- name: North Pole 2-2-1-1-1-2-1-1-1-1
+- name: North Pole 14
   desc: ""
   origin:
     x: -3701
@@ -1781,7 +1781,7 @@
     y: 57
     z: 3096
   color: ""
-- name: North Pole 2-2-1-1-1-2-1-2
+- name: North Pole 15
   desc: ""
   origin:
     x: -4467
@@ -1792,7 +1792,7 @@
     y: 68
     z: -18107
   color: ""
-- name: North Pole 2-2-1-1-1-2-1-3
+- name: North Pole 16
   desc: ""
   origin:
     x: -4402
@@ -1803,7 +1803,7 @@
     y: 28
     z: -7563
   color: ""
-- name: North Pole 2-2-1-1-1-2-1-4
+- name: North Pole 17
   desc: ""
   origin:
     x: -5030
@@ -1814,7 +1814,7 @@
     y: 75
     z: -16188
   color: ""
-- name: North Pole 2-2-1-1-1-2-1-5
+- name: North Pole 18
   desc: ""
   origin:
     x: -5033
@@ -1891,7 +1891,7 @@
     x: 9276
     y: 13
     z: -13741
-  color: "Blue"
+  color: ""
 - name: BMC South-East
   desc: ""
   origin:
@@ -1902,7 +1902,7 @@
     x: 5219
     y: 50
     z: 13023
-  color: "Red"
+  color: ""
 - name: BMC South-East
   desc: ""
   origin:
@@ -1913,7 +1913,7 @@
     x: 5211
     y: 39
     z: 13027
-  color: "Red"
+  color: ""
 - name: BMC South-East
   desc: ""
   origin:
@@ -1924,7 +1924,7 @@
     x: 3679
     y: 16
     z: 14446
-  color: "Red"
+  color: ""
 - name: BMC Spam 0
   desc: ""
   origin:
@@ -1935,7 +1935,7 @@
     x: -429
     y: 76
     z: 13655
-  color: "Red"
+  color: ""
 - name: BMC Spam 1
   desc: ""
   origin:
@@ -1946,7 +1946,7 @@
     x: 891
     y: 44
     z: 7196
-  color: "Red"
+  color: ""
 - name: BMC Spam 2
   desc: ""
   origin:
@@ -1957,7 +1957,7 @@
     x: 3819
     y: 12
     z: 12227
-  color: "Red"
+  color: ""
 - name: BMC Spam 3
   desc: ""
   origin:
@@ -1968,7 +1968,7 @@
     x: 6579
     y: 14
     z: 14840
-  color: "Red"
+  color: ""
 - name: BMC Spam 4
   desc: ""
   origin:
@@ -1979,7 +1979,7 @@
     x: -6143
     y: 17
     z: 10812
-  color: "Red"
+  color: ""
 - name: BMC Spam 4-1
   desc: ""
   origin:
@@ -1990,7 +1990,7 @@
     x: -3043
     y: 24
     z: 15521
-  color: "Red"
+  color: ""
 - name: BMC Spam 4-1-1
   desc: ""
   origin:
@@ -2001,7 +2001,7 @@
     x: 4922
     y: 73
     z: 13864
-  color: "Red"
+  color: ""
 - name: BMC Spam 5
   desc: ""
   origin:
@@ -2012,7 +2012,7 @@
     x: 6579
     y: 14
     z: 14840
-  color: "Red"
+  color: ""
 - name: Sea Breeze TL South
   desc: ""
   origin:
@@ -2023,7 +2023,7 @@
     x: -1267
     y: 13
     z: 7071
-  color: "Red"
+  color: ""
 - name: Sea Breeze TL South 2
   desc: ""
   origin:
@@ -2034,8 +2034,8 @@
     x: 9845
     y: 49
     z: 6832
-  color: "Red"
-- name: North Pole A
+  color: ""
+- name: North Pole 19
   desc: ""
   origin:
     x: 4117
@@ -2056,7 +2056,7 @@
     x: 5176
     y: 25
     z: 9910
-  color: "Red"
+  color: ""
 - name: PV island 3
   desc: "Lead"
   origin:
@@ -2067,7 +2067,7 @@
     x: -6008
     y: 21
     z: 20186
-  color: "Red"
+  color: ""
 - name: PV cont 1
   desc: "unknown"
   origin:
@@ -2078,7 +2078,7 @@
     x: -4840
     y: 58
     z: 15717
-  color: "Red"
+  color: ""
 - name: SB South 1
   desc: "On top"
   origin:
@@ -2089,7 +2089,7 @@
     x: 5345
     y: 12
     z: 2240
-  color: "Red"
+  color: ""
 - name: SB South 1-1
   desc: "DEATH"
   origin:
@@ -2100,7 +2100,7 @@
     x: -317
     y: 22
     z: 6722
-  color: "Red"
+  color: ""
 - name: SB South 1-1-1
   desc: "Halite"
   origin:
@@ -2111,7 +2111,7 @@
     x: 5034
     y: 55
     z: -432
-  color: "Red"
+  color: ""
 - name: SB South 1-2
   desc: "Gallena"
   origin:
@@ -2122,7 +2122,7 @@
     x: 2530
     y: 41
     z: 9063
-  color: "Red"
+  color: ""
 - name: SB South 2
   desc: "DEATH"
   origin:
@@ -2133,7 +2133,7 @@
     x: 10024
     y: 12
     z: 882
-  color: "Red"
+  color: ""
 - name: SB FC north 1
   desc: "Deep"
   origin:
@@ -2144,7 +2144,7 @@
     x: -10888
     y: 57
     z: 16855
-  color: "Green"
+  color: ""
 - name: SB FC north 1-1
   desc: "Chalk"
   origin:
@@ -2155,7 +2155,7 @@
     x: -10040
     y: 23
     z: 13617
-  color: "Green"
+  color: ""
 - name: SB FC north 2
   desc: ""
   origin:
@@ -2166,7 +2166,7 @@
     x: -7556
     y: 98
     z: 19983
-  color: "Yellow"
+  color: ""
 - name: SB FC north 2-1
   desc: "Locusts"
   origin:
@@ -2177,7 +2177,7 @@
     x: -9502
     y: 57
     z: 20776
-  color: "Yellow"
+  color: ""
 - name: SB FC north 2-1-1
   desc: "Deep"
   origin:
@@ -2188,7 +2188,7 @@
     x: -11861
     y: 94
     z: 16699
-  color: "yellow"
+  color: ""
 - name: SB FC north 2-1-1-1
   desc: "End of the line"
   origin:
@@ -2199,7 +2199,7 @@
     x: -13138
     y: 22
     z: 12972
-  color: "yellow"
+  color: ""
 - name: SB FC north 2-1-1-2
   desc: ""
   origin:
@@ -2210,7 +2210,7 @@
     x: -1491
     y: 14
     z: 11661
-  color: "yellow"
+  color: ""
 - name: SB FC north 2-1-1-2-1
   desc: ""
   origin:
@@ -2221,7 +2221,7 @@
     x: -15456
     y: 96
     z: 9602
-  color: "yellow"
+  color: ""
 - name: SB FC north 2-1-1-2-2
   desc: ""
   origin:
@@ -2232,7 +2232,7 @@
     x: -15896
     y: 38
     z: 14374
-  color: "yellow"
+  color: ""
 - name: PV north
   desc: "I didn't find this one"
   origin:
@@ -2243,7 +2243,7 @@
     x: -1180
     y: 36
     z: 12730
-  color: "yellow"
+  color: ""
 - name: PV north 2
   desc: ""
   origin:
@@ -2254,7 +2254,7 @@
     x: -5842
     y: 11
     z: 7904
-  color: "yellow"
+  color: ""
 - name: PV north 3-1
   desc: ""
   origin:
@@ -2265,7 +2265,7 @@
     x: 4686
     y: 12
     z: 18925
-  color: "yellow"
+  color: ""
 - name: PV north 3
   desc: ""
   origin:
@@ -2276,7 +2276,7 @@
     x: 7485
     y: 88
     z: 14953
-  color: "yellow"
+  color: ""
 - name: PV north 4
   desc: ""
   origin:
@@ -2287,7 +2287,7 @@
     x: -5962
     y: 72
     z: 15516
-  color: "yellow"
+  color: ""
 - name: MM North 1
   desc: ""
   origin:
@@ -2298,7 +2298,7 @@
     x: 9266
     y: 55
     z: 27870
-  color: "yellow"
+  color: ""
 - name: MM ??? castle 1
   desc: ""
   origin:
@@ -2309,7 +2309,7 @@
     x: 13514
     y: 45
     z: 22602
-  color: "pink"
+  color: ""
 - name: MM ??? castle 1-1
   desc: ""
   origin:
@@ -2320,7 +2320,7 @@
     x: 18705
     y: 26
     z: 23860
-  color: "pink"
+  color: ""
 - name: MM ??? castle 1-2
   desc: "north bound"
   origin:
@@ -2331,7 +2331,7 @@
     x: 9853
     y: 19
     z: 15858
-  color: "pink"
+  color: ""
 - name: MM ??? castle 1-3
   desc: ""
   origin:
@@ -2342,7 +2342,7 @@
     x: 14307
     y: 71
     z: 27655
-  color: "pink"
+  color: ""
 - name: MM ??? castle 2
   desc: ""
   origin:
@@ -2353,7 +2353,7 @@
     x: 817
     y: 68
     z: 31228
-  color: "pink"
+  color: ""
 - name: MM ??? castle 2-1
   desc: ""
   origin:
@@ -2364,7 +2364,7 @@
     x: -6840
     y: 87
     z: 37450
-  color: "pink"
+  color: ""
 - name: MM ??? castle 2-2
   desc: "Hidden in the tower"
   origin:
@@ -2375,7 +2375,7 @@
     x: -13595
     y: 77
     z: 45289
-  color: "pink"
+  color: ""
 - name: MM ??? castle 2-3
   desc: ""
   origin:
@@ -2386,19 +2386,9 @@
     x: -4501
     y: 42
     z: 41844
-  color: "pink"
-- name: North Pole A
-  desc: ""
-  origin:
-    x: 4117
-    y: 39
-    z: -7508
-  destination:
-    x: 312
-    y: 113
-    z: -9919
   color: ""
-- name: North Pole B1
+  color: ""
+- name: North Pole 20
   desc: ""
   origin:
     x: 8055
@@ -2409,7 +2399,7 @@
     y: 39
     z: -9747
   color: ""
-- name: North Pole B2
+- name: North Pole 21
   desc: ""
   origin:
     x: 7506
@@ -2420,7 +2410,7 @@
     y: 102
     z: -8023
   color: ""
-- name: North Pole B3
+- name: North Pole 22
   desc: ""
   origin:
     x: 113
@@ -2431,7 +2421,7 @@
     y: 84
     z: -15467
   color: ""
-- name: North Pole B4
+- name: North Pole 23
   desc: ""
   origin:
     x: -7371
@@ -2442,7 +2432,7 @@
     y: 125
     z: -21048
   color: ""
-- name: North Pole B5
+- name: North Pole 24
   desc: ""
   origin:
     x: -2661
@@ -2453,3 +2443,211 @@
     y: 21
     z: -27103
   color: ""
+- name: North Pole 25
+  desc: ""
+  origin:
+	x: 121
+    y: 18
+    z: -7980
+  destination:
+    x: -6049
+    y: 71
+    z: -14097
+  color: ""
+- name: North Pole 26
+  desc: ""
+  origin:
+	x: -7
+    y: 107
+    z: -8032
+  destination:
+    x: 4598
+    y: 12
+    z: -9304
+  color: ""
+- name: North Pole 27
+  desc: ""
+  origin:
+	x: -53
+    y: 86
+    z: -8123
+  destination:
+    x: 2744
+    y: 51
+    z: -15565
+  color: ""
+- name: North Pole 28
+  desc: ""
+  origin:
+	x: -64
+    y: 53
+    z: -8136
+  destination:
+    x: 4036
+    y: 21
+    z: -14239
+  color: ""
+- name: North Pole 29
+  origin:
+	x: -143
+    y: 66
+    z: -7864
+  destination:
+    x: 7032
+    y: 17
+    z: -14186
+  color: ""
+- name: North Pole 30
+  desc: ""
+  origin:
+	x: 91
+    y: 58
+    z: -8029
+  destination:
+    x: 3358
+    y: 12
+    z: -9395
+  color: ""
+- name: North Pole 31
+  desc: ""
+  origin:
+	x: 7458
+    y: 41
+    z: -9742
+  destination:
+    x: 13453
+    y: 72
+    z: -14514
+  color: ""
+- name: North Pole 32
+  desc: ""
+  origin:
+	x: 8065
+    y: 67
+    z: -4523
+  destination:
+    x: 4728
+    y: 71
+    z: -11444
+  color: ""
+- name: North Pole 33
+  desc: ""
+  origin:
+	x: 7818
+    y: 97
+    z: -4312
+  destination:
+    x: 13280
+    y: 34
+    z: -8174
+  color: ""
+- name: North Pole 34
+  desc: ""
+  origin:
+	x: 13294
+    y: 13
+    z: -8168
+  destination:
+    x: 15492
+    y: 92
+    z: -8696
+  color: ""
+- name: North Pole 35
+  desc: ""
+  origin:
+	x: 13267
+    y: 12
+    z: -8116
+  destination:
+    x: 17334
+    y: 85
+    z: -8527
+  color: ""
+- name: North Pole 36
+  desc: ""
+  origin:
+	x: 13250
+    y: 16
+    z: -8122
+  destination:
+    x: 19318
+    y: 27
+    z: -14811
+  color: ""
+- name: North Pole 37
+  desc: ""
+  origin:
+	x: 7840
+    y: 132
+    z: -5005
+  destination:
+    x: 10388
+    y: 14
+    z: 2442
+  color: ""
+- name: North Pole 38
+  desc: ""
+  origin:
+	x: 7625
+    y: 52
+    z: -5095
+  destination:
+    x: 3030
+    y: 18
+    z: 1654
+  color: ""
+- name: North Pole 39
+  desc: ""
+  origin:
+	x: 7637
+    y: 103
+    z: -5078
+  destination:
+    x: 52
+    y: 39
+    z: -9113
+  color: ""
+- name: North Pole 40
+  desc: ""
+  origin:
+	x: 76
+    y: 38
+    z: -9108
+  destination:
+    x: -2099
+    y: 91
+    z: -3676
+  color: ""
+- name: North Pole 41
+  desc: ""
+  origin:
+	x: -2653
+    y: 74
+    z: -20994
+  destination:
+    x: -3923
+    y: 61
+    z: -23466
+  color: ""
+- name: SB E4-4
+   desc: ""
+   origin:
+    x: 9217
+    y: 105
+    z: 2358
+   destination:
+    x: 15907
+    y: 57
+    z: 6895
+   color: ""
+name: SB E4-5
+ desc: ""
+ origin:
+  x: 9220
+  y: 118
+  z: 2299
+ destination:
+  x: 5654
+  y: 91
+  z: 5910
+ color: ""
